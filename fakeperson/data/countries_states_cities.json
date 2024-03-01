@@ -1507,7 +1507,7 @@
     "native": "Antigua and Barbuda",
     "region": "Americas",
     "nationalities": [
-      "Antiguan or Barbudan"
+      "Antiguan, Barbudan"
     ],
     "states": [
       {
@@ -6068,7 +6068,7 @@
     "native": "Bosna i Hercegovina",
     "region": "Europe",
     "nationalities": [
-      "Bosnian or Herzegovinian"
+      "Bosnian, Herzegovinian"
     ],
     "states": [
       {
@@ -13556,14 +13556,14 @@
     ]
   },
   {
-    "name": "Cote D'Ivoire (Ivory Coast)",
+    "name": "Ivory Coast",
     "iso3": "CIV",
     "iso2": "CI",
     "phone_code": "225",
     "capital": "Yamoussoukro",
     "currency": "XOF",
     "currency_symbol": "CFA",
-    "native": null,
+    "native": "Cote D'Ivoire",
     "region": "Africa",
     "nationalities": [
       "Ivorian"
@@ -20458,7 +20458,7 @@
     ]
   },
   {
-    "name": "Gambia The",
+    "name": "Gambia",
     "iso3": "GMB",
     "iso2": "GM",
     "phone_code": "220",
@@ -23853,7 +23853,7 @@
     "native": "Heard Island and McDonald Islands",
     "region": "",
     "nationalities": [
-      "Heard Island or McDonald Islands"
+      "Heard Island, McDonald Islands"
     ],
     "states": []
   },
@@ -24500,7 +24500,7 @@
     ]
   },
   {
-    "name": "Hong Kong S.A.R.",
+    "name": "Hong Kong",
     "iso3": "HKG",
     "iso2": "HK",
     "phone_code": "852",
@@ -37924,7 +37924,8 @@
           "Lawas",
           "Lidung Jelo",
           "Limbang",
-          "Long Ampan Aing or Abanang",
+          "Long Ampan Aing",
+          "Abanang",
           "Marudi",
           "Miri",
           "Mukah",
@@ -38662,7 +38663,7 @@
     ]
   },
   {
-    "name": "Man (Isle of)",
+    "name": "Isle of Man",
     "iso3": "IMN",
     "iso2": "IM",
     "phone_code": "+44-1624",
@@ -58751,7 +58752,7 @@
     "native": "Saint Kitts and Nevis",
     "region": "Americas",
     "nationalities": [
-      "Kittitian or Nevisian"
+      "Kittitian, Nevisian"
     ],
     "states": [
       {
@@ -59307,7 +59308,7 @@
     "native": "Saint-Pierre-et-Miquelon",
     "region": "Americas",
     "nationalities": [
-      "Saint-Pierrais or Miquelonnais"
+      "Saint-Pierrais, Miquelonnais"
     ],
     "states": []
   },
@@ -62896,7 +62897,7 @@
     "native": "South Georgia",
     "region": "Americas",
     "nationalities": [
-      "South Georgia or South Sandwich Islands"
+      "South Georgia, South Sandwich Islands"
     ],
     "states": []
   },
@@ -71544,7 +71545,7 @@
     "native": "Trinidad and Tobago",
     "region": "Americas",
     "nationalities": [
-      "Trinidadian or Tobagonian"
+      "Trinidadian, Tobagonian"
     ],
     "states": [
       {
@@ -81337,7 +81338,7 @@
     "native": "Wallis et Futuna",
     "region": "Oceania",
     "nationalities": [
-      "Wallis and Futuna, Wallisian or Futunan"
+      "Wallis and Futuna, Wallisian, Futunan"
     ],
     "states": []
   },

@@ -49,4 +49,4 @@ def read():
         data = json.load(file)
 
     extracted_data = extract_data(data)
-    export_to_json(extracted_data, "data.json")
+    export_to_json(extracted_data, "translations_and_data.json")

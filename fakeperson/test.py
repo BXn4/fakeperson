@@ -1,8 +1,4 @@
-from fakeperson import random_person
+from fakeperson import random_person, nationalities, person_data
+print(nationalities.get_fake_nationality(city="Magyarország", native=False))
 
-person = random_person(nationality="DEU", native=True)
-print(f'Gender: {person.gender}')
-print(f'Nationality: {person.nationality}')
-print(f'Age: {person.age}')
-print(f'Country: {person.country}')
-print(f'City: {person.city}')
+# create_language_data_json.read()

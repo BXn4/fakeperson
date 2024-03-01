@@ -1,7 +1,9 @@
+from math import floor
 from typing import Union
-from random import randint, choice
+from random import randint
+from utils import person_data
 
-from data import nationalities
+from utils import nationalities
 
 
 class Person:
@@ -12,10 +14,23 @@ class Person:
         self.age = None
         self.country = None
         self.city = None
+
+        self.height = None
+        self.weight = None
+        self.eyesColor = None
+        self.hairColor = None
+        self.wearGlasses = None
+        self.glassesDioptre = None
+
         self.set_random(gender, nationality, age, country, city, native)
 
         self.address: HomeAddress = HomeAddress()
         self.address.set_random(self)
+
+        self.favFood = None
+        self.favDrink = None
+        self.favColor = None
+        self.favMusicGenre = None
 
         self.firstname = None
         self.lastname = None
@@ -33,40 +48,26 @@ class Person:
         self.nativeLanguage = None
         self.spokenLanguages = None  # List
         self.hobby = None
-        self.job = None  # Class Job ex: person.job.get_salary
+        self.job = None  # Class Job ex: person.job.salary
 
     def set_random(self, gender, nationality, age, country, city, native):
-        if isinstance(gender, int):  # Check gender
-            match gender:
-                case 1:  # Male
-                    self.gender = "Male"
-                case 2:  # Female
-                    self.gender = "Female"
-                case _:  # Default
-                    self.gender = choice(["Male", "Female"])
-        elif isinstance(gender, str):
-            if gender.lower() in ["male", "female"]:
-                self.gender = gender.capitalize()
-            else:  # When the input is not male or female
-                self.gender = choice(["Male", "Female"])
-        else:  # Gender is not set
-            self.gender = choice(["Male", "Female"])
-
         if not nationality:
-            nationality = nationalities.get_random_nationality(country, city, native)
+            nationality = nationalities.get_fake_nationality(country, city, native)
         elif nationality:
             nationality = nationalities.check_nationality(nationality, native)
         self.nationality = nationality
 
         if not age:
-            age = randint(5, 120)
+            age = person_data.age()
         self.age = age
 
         if not country:
-            country = nationalities.get_random_country(nationality, city, native)
+            country = nationalities.get_fake_country(nationality, city, native)
         elif country:
             country = nationalities.check_country(country, native)
         self.country = country
+
+        self.gender = person_data.get_gender(gender, self.country, native)
 
         if not city:
             pass
@@ -74,6 +75,40 @@ class Person:
         elif city:
             city = nationalities.check_city(city)
         self.city = city
+
+        # do more
+
+        match self.gender:
+            case "Female":
+                if self.age >= 18:
+                    self.height = randint(150, 175)  # CM
+                else:
+                    self.height = randint(140, 160)  # CM
+                if self.nationality == "American":
+                    self.height = round((self.height / 30.48), 2)  # TO FEET
+            case "Male":
+                if self.age >= 18:
+                    self.height = randint(160, 210)  # CM
+                else:
+                    self.height = randint(150, 170)  # CM
+                if self.nationality == "American":
+                    self.height = round((self.height / 30.48), 2)  # TO FEET
+
+        match self.gender:
+            case "Female":
+                if self.age >= 18:
+                    self.weight = randint(55, 80)  # KG
+                else:
+                    self.weight = randint(40, 55)  # KG
+                if self.nationality == "American":
+                    self.weight = floor(self.weight / 0.45359237)  # TO LB
+            case "Male":
+                if self.age >= 18:
+                    self.weight = randint(60, 110)  # KG
+                else:
+                    self.weight = randint(50, 70)  # KG
+                if self.nationality == "American":
+                    self.weight = floor(self.weight / 0.45359237)  # TO LB
 
     def to_json(self):  # Export not done
         pass
@@ -83,6 +118,13 @@ class Person:
 
     def to_txt(self):  # Export not done
         pass
+
+
+class Documents:
+    def __init__(self):
+        self.id = None
+        self.creditCard = None
+        self.driverLicense = None
 
 
 class Parents:
@@ -119,6 +161,7 @@ class HomeAddress:
 
     def set_random(self, person):
         pass
+
 
 class WorkAddress:
     def __init__(self, zip: int, city: str, street: str, number: int) -> None:
