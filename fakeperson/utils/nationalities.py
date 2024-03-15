@@ -2,6 +2,8 @@
 # https://github.com/dr5hn/countries-states-cities-database/tree/master
 # Thanks!
 
+# Code looks a little-bit terrible, but it's working as excepted.
+
 import json
 from random import choice, randint
 
@@ -21,8 +23,14 @@ def read():
 
 
 def check_nationality(nationality: str, native: bool):
+    # IN: NAT*
+    # IN: NATIVE
+    # OUT: NAT FROM THE DATA
+
+    # Check the nationality if valid
+    # If native, return in native
+    # There's can be multiple in native
     for item in data:
-        all_nats = ','.join(map(str, item['nationalities']))  # Convert list to str
         all_nats = ','.join(map(str, item['nationalities']))  # Convert list to str
         nats = all_nats.split(',')
         nat1 = nats[0].strip()
@@ -64,6 +72,12 @@ def check_nationality(nationality: str, native: bool):
 
 
 def check_country(country: str, native: bool):
+    # IN: COUNTRY*
+    # IN: NATIVE
+    # OUT: COUNTRY FROM DATA
+
+    # Check if the country is valid
+    # If native, return in native
     for item in data:
         if item['name'].lower() == country.lower():
             if native:
@@ -79,6 +93,11 @@ def check_country(country: str, native: bool):
 
 
 def check_city(city: str):
+    # IN: CITY*
+    # OUT: CITY FROM DATA
+
+    # Check if the city is valid
+    # No native support.
     for item in data:
         for state in item.get('states', []):
             for cities in state.get('cities', []):
@@ -89,6 +108,13 @@ def check_city(city: str):
 
 
 def get_fake_nationality(country: str = None, city: str = None, native: bool = False):
+    # IN: COUNTRY
+    # IN: CITY:
+    # IN: NATIVE
+    # OUT: NAT FROM THE DATA
+
+    # Get nationality from country, or from city. If native, return in native.
+    # If not country, or city, return random nationality
     if country:
         for item in data:
             if item['name'].lower() == country.lower():
@@ -139,6 +165,13 @@ def get_fake_nationality(country: str = None, city: str = None, native: bool = F
 
 
 def get_fake_country(nationality: str = None, city: str = None, native: bool = False):
+    # IN: NAT
+    # IN: CITY
+    # IN: NATIVE
+    # OUT: COUNTRY FROM THE DATA
+
+    # Get country from nationality, or from city. If native, return in native.
+    # If not nationality, or city, return a random country.
     if nationality:
         for item in data:
             nationalities = item.get('nationalities', [])
@@ -188,6 +221,68 @@ def get_fake_country(nationality: str = None, city: str = None, native: bool = F
     return data[rnd]['name']  # Return random country
 
 
-def get_fake_city(nationality: str = None, country: str = None, native: bool = False):
-    pass
+def get_fake_state(nationality: str = None, country: str = None, city: str = None):
+    # IN: NAT
+    # IN: COUNTRY
+    # IN: CITY
+    # OUT: STATE FROM DATA
 
+    # Get random state from nationality, or from country, or from city.
+    # If not nationality, or country, or city, return random state
+
+    states = []
+    if nationality:
+        for item in data:
+            nationalities = item.get('nationalities', [])
+            all_nats = ','.join(map(str, nationalities))  # Convert list to str
+            nats = all_nats.split(', ')
+            nat = nats[0].strip()
+            if len(nationality) == 3:
+                if item['iso3'].lower() == nationality.lower():
+                    nationality = nat
+
+            match len(nats):
+                case 2:
+                    nat2 = nats[1].strip()
+                    if nat2.lower() == nationality.lower():
+                        nationality = nats[0].strip()
+                case 3:
+                    nat3 = nats[2].strip()
+                    if nat3.lower() == nationality.lower():
+                        nationality = nats[0].strip()
+                case 4:
+                    nat3 = nats[3].strip()
+                    if nat3.lower() == nationality.lower():
+                        nationality = nats[0].strip()
+
+            if nat.lower() == nationality.lower():
+                for state in item['states']:
+                    if state['cities']:
+                        states.append(state['name'])
+
+    if country:
+        for item in data:
+            if item['name'].lower() == country.lower() or item['native'].lower() == country.lower():
+                for state in item['states']:
+                    if state['cities']:
+                        states.append(state['name'])
+
+    if city:
+        for item in data:
+            for state in item['states']:
+                if state['cities']:
+                    cities: list = state['cities']
+                    if city.capitalize() in cities:
+                        return state['name']
+
+    if states:
+        return choice(states)
+
+    if nationality:
+        raise ValueError(f'"{nationality}" is not found')
+
+    if country:
+        raise ValueError(f'"{country}" is not found')
+
+    if city:
+        raise ValueError(f'"{city}" is not found')
