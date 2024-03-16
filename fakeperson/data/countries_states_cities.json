@@ -273,21 +273,6 @@
     ]
   },
   {
-    "name": "Aland Islands",
-    "iso3": "ALA",
-    "iso2": "AX",
-    "phone_code": "+358-18",
-    "capital": "Mariehamn",
-    "currency": "EUR",
-    "currency_symbol": "€",
-    "native": "Åland",
-    "region": "Europe",
-    "nationalities": [
-      "Aland Island"
-    ],
-    "states": []
-  },
-  {
     "name": "Albania",
     "iso3": "ALB",
     "iso2": "AL",
@@ -301,10 +286,6 @@
       "Albanian "
     ],
     "states": [
-      {
-        "name": "Berat County",
-        "cities": []
-      },
       {
         "name": "Berat District",
         "cities": [
@@ -324,18 +305,6 @@
         ]
       },
       {
-        "name": "Bulqizë District",
-        "cities": []
-      },
-      {
-        "name": "Delvinë District",
-        "cities": []
-      },
-      {
-        "name": "Devoll District",
-        "cities": []
-      },
-      {
         "name": "Dibër County",
         "cities": [
           "Bashkia Bulqizë",
@@ -352,14 +321,6 @@
         ]
       },
       {
-        "name": "Dibër District",
-        "cities": []
-      },
-      {
-        "name": "Durrës County",
-        "cities": []
-      },
-      {
         "name": "Durrës District",
         "cities": [
           "Bashkia Durrës",
@@ -373,10 +334,6 @@
           "Shijak",
           "Sukth"
         ]
-      },
-      {
-        "name": "Elbasan County",
-        "cities": []
       },
       {
         "name": "Fier County",
@@ -397,14 +354,6 @@
         ]
       },
       {
-        "name": "Fier District",
-        "cities": []
-      },
-      {
-        "name": "Gjirokastër County",
-        "cities": []
-      },
-      {
         "name": "Gjirokastër District",
         "cities": [
           "Bashkia Dropull",
@@ -422,22 +371,6 @@
           "Përmet",
           "Tepelenë"
         ]
-      },
-      {
-        "name": "Gramsh District",
-        "cities": []
-      },
-      {
-        "name": "Has District",
-        "cities": []
-      },
-      {
-        "name": "Kavajë District",
-        "cities": []
-      },
-      {
-        "name": "Kolonjë District",
-        "cities": []
       },
       {
         "name": "Korçë County",
@@ -461,22 +394,6 @@
         ]
       },
       {
-        "name": "Korçë District",
-        "cities": []
-      },
-      {
-        "name": "Krujë District",
-        "cities": []
-      },
-      {
-        "name": "Kuçovë District",
-        "cities": []
-      },
-      {
-        "name": "Kukës County",
-        "cities": []
-      },
-      {
         "name": "Kukës District",
         "cities": [
           "Bajram Curri",
@@ -485,10 +402,6 @@
           "Rrethi i Hasit",
           "Rrethi i Kukësit"
         ]
-      },
-      {
-        "name": "Kurbin District",
-        "cities": []
       },
       {
         "name": "Lezhë County",
@@ -508,58 +421,6 @@
         ]
       },
       {
-        "name": "Lezhë District",
-        "cities": []
-      },
-      {
-        "name": "Librazhd District",
-        "cities": []
-      },
-      {
-        "name": "Lushnjë District",
-        "cities": []
-      },
-      {
-        "name": "Malësi e Madhe District",
-        "cities": []
-      },
-      {
-        "name": "Mallakastër District",
-        "cities": []
-      },
-      {
-        "name": "Mat District",
-        "cities": []
-      },
-      {
-        "name": "Mirditë District",
-        "cities": []
-      },
-      {
-        "name": "Peqin District",
-        "cities": []
-      },
-      {
-        "name": "Përmet District",
-        "cities": []
-      },
-      {
-        "name": "Pogradec District",
-        "cities": []
-      },
-      {
-        "name": "Pukë District",
-        "cities": []
-      },
-      {
-        "name": "Sarandë District",
-        "cities": []
-      },
-      {
-        "name": "Shkodër County",
-        "cities": []
-      },
-      {
         "name": "Shkodër District",
         "cities": [
           "Bashkia Malësi e Madhe",
@@ -576,18 +437,6 @@
         ]
       },
       {
-        "name": "Skrapar District",
-        "cities": []
-      },
-      {
-        "name": "Tepelenë District",
-        "cities": []
-      },
-      {
-        "name": "Tirana County",
-        "cities": []
-      },
-      {
         "name": "Tirana District",
         "cities": [
           "Bashkia Kavajë",
@@ -602,10 +451,6 @@
           "Tirana",
           "Vorë"
         ]
-      },
-      {
-        "name": "Tropojë District",
-        "cities": []
       },
       {
         "name": "Vlorë County",
@@ -625,10 +470,6 @@
           "Selenicë",
           "Vlorë"
         ]
-      },
-      {
-        "name": "Vlorë District",
-        "cities": []
       }
     ]
   },
@@ -729,10 +570,6 @@
         ]
       },
       {
-        "name": "Béni Abbès",
-        "cities": []
-      },
-      {
         "name": "Biskra",
         "cities": [
           "Biskra",
@@ -759,10 +596,6 @@
           "Sidi Moussa",
           "Souma"
         ]
-      },
-      {
-        "name": "Bordj Baji Mokhtar",
-        "cities": []
       },
       {
         "name": "Bordj Bou Arréridj",
@@ -830,10 +663,6 @@
         ]
       },
       {
-        "name": "Djanet",
-        "cities": []
-      },
-      {
         "name": "Djelfa",
         "cities": [
           "’Aïn el Bell",
@@ -853,14 +682,6 @@
           "El Abiodh Sidi Cheikh",
           "El Bayadh"
         ]
-      },
-      {
-        "name": "El M'ghair",
-        "cities": []
-      },
-      {
-        "name": "El Menia",
-        "cities": []
       },
       {
         "name": "El Oued",
@@ -901,14 +722,6 @@
         "cities": [
           "Illizi"
         ]
-      },
-      {
-        "name": "In Guezzam",
-        "cities": []
-      },
-      {
-        "name": "In Salah",
-        "cities": []
       },
       {
         "name": "Jijel",
@@ -1005,10 +818,6 @@
           "Tebesbest",
           "Touggourt"
         ]
-      },
-      {
-        "name": "Ouled Djellal",
-        "cities": []
       },
       {
         "name": "Oum El Bouaghi",
@@ -1142,10 +951,6 @@
         ]
       },
       {
-        "name": "Timimoun",
-        "cities": []
-      },
-      {
         "name": "Tindouf",
         "cities": [
           "Tindouf"
@@ -1214,27 +1019,8 @@
           "Sidi Senoussi سيدي سنوسي",
           "Tlemcen"
         ]
-      },
-      {
-        "name": "Touggourt",
-        "cities": []
       }
     ]
-  },
-  {
-    "name": "American Samoa",
-    "iso3": "ASM",
-    "iso2": "AS",
-    "phone_code": "+1-684",
-    "capital": "Pago Pago",
-    "currency": "USD",
-    "currency_symbol": "$",
-    "native": "American Samoa",
-    "region": "Oceania",
-    "nationalities": [
-      "American Samoan"
-    ],
-    "states": []
   },
   {
     "name": "Andorra",
@@ -1467,36 +1253,6 @@
     ]
   },
   {
-    "name": "Anguilla",
-    "iso3": "AIA",
-    "iso2": "AI",
-    "phone_code": "+1-264",
-    "capital": "The Valley",
-    "currency": "XCD",
-    "currency_symbol": "$",
-    "native": "Anguilla",
-    "region": "Americas",
-    "nationalities": [
-      "Anguillan"
-    ],
-    "states": []
-  },
-  {
-    "name": "Antarctica",
-    "iso3": "ATA",
-    "iso2": "AQ",
-    "phone_code": "672",
-    "capital": "",
-    "currency": "AAD",
-    "currency_symbol": "$",
-    "native": "Antarctica",
-    "region": "Polar",
-    "nationalities": [
-      "Antarctic"
-    ],
-    "states": []
-  },
-  {
     "name": "Antigua and Barbuda",
     "iso3": "ATG",
     "iso2": "AG",
@@ -1515,10 +1271,6 @@
         "cities": [
           "Codrington"
         ]
-      },
-      {
-        "name": "Redonda",
-        "cities": []
       },
       {
         "name": "Saint George Parish",
@@ -1552,10 +1304,6 @@
           "All Saints",
           "Parham"
         ]
-      },
-      {
-        "name": "Saint Philip Parish",
-        "cities": []
       }
     ]
   },
@@ -1724,10 +1472,6 @@
           "Trelew",
           "Trevelin"
         ]
-      },
-      {
-        "name": "Ciudad Autónoma de Buenos Aires",
-        "cities": []
       },
       {
         "name": "Córdoba",
@@ -2790,21 +2534,6 @@
     ]
   },
   {
-    "name": "Aruba",
-    "iso3": "ABW",
-    "iso2": "AW",
-    "phone_code": "297",
-    "capital": "Oranjestad",
-    "currency": "AWG",
-    "currency_symbol": "ƒ",
-    "native": "Aruba",
-    "region": "Americas",
-    "nationalities": [
-      "Aruban"
-    ],
-    "states": []
-  },
-  {
     "name": "Australia",
     "iso3": "AUS",
     "iso2": "AU",
@@ -3797,10 +3526,6 @@
         ]
       },
       {
-        "name": "Babek District",
-        "cities": []
-      },
-      {
         "name": "Baku",
         "cities": [
           "Amirdzhan",
@@ -3954,19 +3679,11 @@
         ]
       },
       {
-        "name": "Julfa District",
-        "cities": []
-      },
-      {
         "name": "Kalbajar District",
         "cities": [
           "Kerbakhiar",
           "Vank"
         ]
-      },
-      {
-        "name": "Kangarli District",
-        "cities": []
       },
       {
         "name": "Khachmaz District",
@@ -4002,10 +3719,6 @@
         "cities": [
           "Laçın"
         ]
-      },
-      {
-        "name": "Lankaran",
-        "cities": []
       },
       {
         "name": "Lankaran District",
@@ -4080,10 +3793,6 @@
         ]
       },
       {
-        "name": "Ordubad District",
-        "cities": []
-      },
-      {
         "name": "Qabala District",
         "cities": [
           "Qutqashen"
@@ -4138,10 +3847,6 @@
         ]
       },
       {
-        "name": "Sadarak District",
-        "cities": []
-      },
-      {
         "name": "Salyan District",
         "cities": [
           "Qaraçala",
@@ -4161,10 +3866,6 @@
         "cities": [
           "Divichibazar"
         ]
-      },
-      {
-        "name": "Shahbuz District",
-        "cities": []
       },
       {
         "name": "Shaki",
@@ -4192,10 +3893,6 @@
           "Qasım İsmayılov",
           "Shamkhor"
         ]
-      },
-      {
-        "name": "Sharur District",
-        "cities": []
       },
       {
         "name": "Shirvan",
@@ -4328,10 +4025,6 @@
         ]
       },
       {
-        "name": "Northern",
-        "cities": []
-      },
-      {
         "name": "Southern",
         "cities": [
           "Ar Rifā‘",
@@ -4356,22 +4049,6 @@
     ],
     "states": [
       {
-        "name": "Bagerhat District",
-        "cities": []
-      },
-      {
-        "name": "Bahadia",
-        "cities": []
-      },
-      {
-        "name": "Bandarban District",
-        "cities": []
-      },
-      {
-        "name": "Barguna District",
-        "cities": []
-      },
-      {
         "name": "Barisal District",
         "cities": [
           "Barguna",
@@ -4388,34 +4065,6 @@
           "Patuakhali",
           "Pirojpur"
         ]
-      },
-      {
-        "name": "Barisal Division",
-        "cities": []
-      },
-      {
-        "name": "Bhola District",
-        "cities": []
-      },
-      {
-        "name": "Bogra District",
-        "cities": []
-      },
-      {
-        "name": "Brahmanbaria District",
-        "cities": []
-      },
-      {
-        "name": "Chandpur District",
-        "cities": []
-      },
-      {
-        "name": "Chapai Nawabganj District",
-        "cities": []
-      },
-      {
-        "name": "Chittagong District",
-        "cities": []
       },
       {
         "name": "Chittagong Division",
@@ -4446,18 +4095,6 @@
           "Sātkania",
           "Teknāf"
         ]
-      },
-      {
-        "name": "Chuadanga District",
-        "cities": []
-      },
-      {
-        "name": "Comilla District",
-        "cities": []
-      },
-      {
-        "name": "Cox's Bazar District",
-        "cities": []
       },
       {
         "name": "Dhaka District",
@@ -4499,62 +4136,6 @@
         ]
       },
       {
-        "name": "Dhaka Division",
-        "cities": []
-      },
-      {
-        "name": "Dinajpur District",
-        "cities": []
-      },
-      {
-        "name": "Faridpur District",
-        "cities": []
-      },
-      {
-        "name": "Feni District",
-        "cities": []
-      },
-      {
-        "name": "Gaibandha District",
-        "cities": []
-      },
-      {
-        "name": "Gazipur District",
-        "cities": []
-      },
-      {
-        "name": "Gopalganj District",
-        "cities": []
-      },
-      {
-        "name": "Habiganj District",
-        "cities": []
-      },
-      {
-        "name": "Jamalpur District",
-        "cities": []
-      },
-      {
-        "name": "Jessore District",
-        "cities": []
-      },
-      {
-        "name": "Jhalokati District",
-        "cities": []
-      },
-      {
-        "name": "Jhenaidah District",
-        "cities": []
-      },
-      {
-        "name": "Joypurhat District",
-        "cities": []
-      },
-      {
-        "name": "Khagrachari District",
-        "cities": []
-      },
-      {
         "name": "Khulna District",
         "cities": [
           "Bagerhat",
@@ -4582,46 +4163,6 @@
         ]
       },
       {
-        "name": "Khulna Division",
-        "cities": []
-      },
-      {
-        "name": "Kishoreganj District",
-        "cities": []
-      },
-      {
-        "name": "Kurigram District",
-        "cities": []
-      },
-      {
-        "name": "Kushtia District",
-        "cities": []
-      },
-      {
-        "name": "Lakshmipur District",
-        "cities": []
-      },
-      {
-        "name": "Lalmonirhat District",
-        "cities": []
-      },
-      {
-        "name": "Madaripur District",
-        "cities": []
-      },
-      {
-        "name": "Meherpur District",
-        "cities": []
-      },
-      {
-        "name": "Moulvibazar District",
-        "cities": []
-      },
-      {
-        "name": "Munshiganj District",
-        "cities": []
-      },
-      {
         "name": "Mymensingh District",
         "cities": [
           "Gafargaon",
@@ -4632,58 +4173,6 @@
           "Sarishābāri",
           "Sherpur"
         ]
-      },
-      {
-        "name": "Mymensingh Division",
-        "cities": []
-      },
-      {
-        "name": "Naogaon District",
-        "cities": []
-      },
-      {
-        "name": "Narail District",
-        "cities": []
-      },
-      {
-        "name": "Narayanganj District",
-        "cities": []
-      },
-      {
-        "name": "Natore District",
-        "cities": []
-      },
-      {
-        "name": "Netrokona District",
-        "cities": []
-      },
-      {
-        "name": "Nilphamari District",
-        "cities": []
-      },
-      {
-        "name": "Noakhali District",
-        "cities": []
-      },
-      {
-        "name": "Pabna District",
-        "cities": []
-      },
-      {
-        "name": "Panchagarh District",
-        "cities": []
-      },
-      {
-        "name": "Patuakhali District",
-        "cities": []
-      },
-      {
-        "name": "Pirojpur District",
-        "cities": []
-      },
-      {
-        "name": "Rajbari District",
-        "cities": []
       },
       {
         "name": "Rajshahi District",
@@ -4709,14 +4198,6 @@
         ]
       },
       {
-        "name": "Rajshahi Division",
-        "cities": []
-      },
-      {
-        "name": "Rangamati Hill District",
-        "cities": []
-      },
-      {
         "name": "Rangpur District",
         "cities": [
           "Badarganj",
@@ -4736,30 +4217,6 @@
         ]
       },
       {
-        "name": "Rangpur Division",
-        "cities": []
-      },
-      {
-        "name": "Satkhira District",
-        "cities": []
-      },
-      {
-        "name": "Shariatpur District",
-        "cities": []
-      },
-      {
-        "name": "Sherpur District",
-        "cities": []
-      },
-      {
-        "name": "Sirajganj District",
-        "cities": []
-      },
-      {
-        "name": "Sunamganj District",
-        "cities": []
-      },
-      {
         "name": "Sylhet District",
         "cities": [
           "Baniachang",
@@ -4771,18 +4228,6 @@
           "Sunamganj",
           "Sylhet"
         ]
-      },
-      {
-        "name": "Sylhet Division",
-        "cities": []
-      },
-      {
-        "name": "Tangail District",
-        "cities": []
-      },
-      {
-        "name": "Thakurgaon District",
-        "cities": []
       }
     ]
   },
@@ -4813,28 +4258,16 @@
         ]
       },
       {
-        "name": "Saint George",
-        "cities": []
-      },
-      {
         "name": "Saint James",
         "cities": [
           "Holetown"
         ]
       },
       {
-        "name": "Saint John",
-        "cities": []
-      },
-      {
         "name": "Saint Joseph",
         "cities": [
           "Bathsheba"
         ]
-      },
-      {
-        "name": "Saint Lucy",
-        "cities": []
       },
       {
         "name": "Saint Michael",
@@ -4853,10 +4286,6 @@
         "cities": [
           "Crane"
         ]
-      },
-      {
-        "name": "Saint Thomas",
-        "cities": []
       }
     ]
   },
@@ -5204,18 +4633,10 @@
     ],
     "states": [
       {
-        "name": "Antwerp",
-        "cities": []
-      },
-      {
         "name": "Brussels-Capital Region",
         "cities": [
           "Brussels"
         ]
-      },
-      {
-        "name": "East Flanders",
-        "cities": []
       },
       {
         "name": "Flanders",
@@ -5273,30 +4694,6 @@
         ]
       },
       {
-        "name": "Flemish Brabant",
-        "cities": []
-      },
-      {
-        "name": "Hainaut",
-        "cities": []
-      },
-      {
-        "name": "Liège",
-        "cities": []
-      },
-      {
-        "name": "Limburg",
-        "cities": []
-      },
-      {
-        "name": "Luxembourg",
-        "cities": []
-      },
-      {
-        "name": "Namur",
-        "cities": []
-      },
-      {
         "name": "Wallonia",
         "cities": [
           "Aiseau",
@@ -5350,14 +4747,6 @@
           "Chastre-Villeroux-Blanmont",
           "Châtelet"
         ]
-      },
-      {
-        "name": "Walloon Brabant",
-        "cities": []
-      },
-      {
-        "name": "West Flanders",
-        "cities": []
       }
     ]
   },
@@ -5565,10 +4954,6 @@
         ]
       },
       {
-        "name": "Pembroke",
-        "cities": []
-      },
-      {
         "name": "Saint George's",
         "cities": [
           "St. George's",
@@ -5708,10 +5093,6 @@
         "cities": [
           "Trashigang"
         ]
-      },
-      {
-        "name": "Trongsa District",
-        "cities": []
       },
       {
         "name": "Tsirang District",
@@ -6046,14 +5427,6 @@
           "Windwardside",
           "Zion's Hill"
         ]
-      },
-      {
-        "name": "Saba",
-        "cities": []
-      },
-      {
-        "name": "Sint Eustatius",
-        "cities": []
       }
     ]
   },
@@ -6072,23 +5445,11 @@
     ],
     "states": [
       {
-        "name": "Bosnian Podrinje Canton",
-        "cities": []
-      },
-      {
         "name": "Brčko District",
         "cities": [
           "Brčko",
           "Brka"
         ]
-      },
-      {
-        "name": "Canton 10",
-        "cities": []
-      },
-      {
-        "name": "Central Bosnia Canton",
-        "cities": []
       },
       {
         "name": "Federation of Bosnia and Herzegovina",
@@ -6146,14 +5507,6 @@
         ]
       },
       {
-        "name": "Herzegovina-Neretva Canton",
-        "cities": []
-      },
-      {
-        "name": "Posavina Canton",
-        "cities": []
-      },
-      {
         "name": "Republika Srpska",
         "cities": [
           "Balatun",
@@ -6207,26 +5560,6 @@
           "Petkovci",
           "Piskavica"
         ]
-      },
-      {
-        "name": "Sarajevo Canton",
-        "cities": []
-      },
-      {
-        "name": "Tuzla Canton",
-        "cities": []
-      },
-      {
-        "name": "Una-Sana Canton",
-        "cities": []
-      },
-      {
-        "name": "West Herzegovina Canton",
-        "cities": []
-      },
-      {
-        "name": "Zenica-Doboj Canton",
-        "cities": []
       }
     ]
   },
@@ -6327,10 +5660,6 @@
         ]
       },
       {
-        "name": "Ngamiland",
-        "cities": []
-      },
-      {
         "name": "North-East District",
         "cities": [
           "Dukwe",
@@ -6369,21 +5698,6 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Bouvet Island",
-    "iso3": "BVT",
-    "iso2": "BV",
-    "phone_code": "0055",
-    "capital": "",
-    "currency": "NOK",
-    "currency_symbol": "kr",
-    "native": "Bouvetøya",
-    "region": "",
-    "nationalities": [
-      "Bouvet Island"
-    ],
-    "states": []
   },
   {
     "name": "Brazil",
@@ -7741,21 +7055,6 @@
     ]
   },
   {
-    "name": "British Indian Ocean Territory",
-    "iso3": "IOT",
-    "iso2": "IO",
-    "phone_code": "246",
-    "capital": "Diego Garcia",
-    "currency": "USD",
-    "currency_symbol": "$",
-    "native": "British Indian Ocean Territory",
-    "region": "Africa",
-    "nationalities": [
-      "BIOT"
-    ],
-    "states": []
-  },
-  {
     "name": "Brunei",
     "iso3": "BRN",
     "iso2": "BN",
@@ -8475,22 +7774,6 @@
     ],
     "states": [
       {
-        "name": "Balé Province",
-        "cities": []
-      },
-      {
-        "name": "Bam Province",
-        "cities": []
-      },
-      {
-        "name": "Banwa Province",
-        "cities": []
-      },
-      {
-        "name": "Bazèga Province",
-        "cities": []
-      },
-      {
         "name": "Boucle du Mouhoun Region",
         "cities": [
           "Barani",
@@ -8507,14 +7790,6 @@
           "Toma",
           "Tougan"
         ]
-      },
-      {
-        "name": "Bougouriba Province",
-        "cities": []
-      },
-      {
-        "name": "Boulgou",
-        "cities": []
       },
       {
         "name": "Cascades Region",
@@ -8583,10 +7858,6 @@
         ]
       },
       {
-        "name": "Comoé Province",
-        "cities": []
-      },
-      {
         "name": "Est Region",
         "cities": [
           "Bogandé",
@@ -8602,18 +7873,6 @@
         ]
       },
       {
-        "name": "Ganzourgou Province",
-        "cities": []
-      },
-      {
-        "name": "Gnagna Province",
-        "cities": []
-      },
-      {
-        "name": "Gourma Province",
-        "cities": []
-      },
-      {
         "name": "Hauts-Bassins Region",
         "cities": [
           "Bobo-Dioulasso",
@@ -8622,70 +7881,6 @@
           "Province du Kénédougou",
           "Province du Tuy"
         ]
-      },
-      {
-        "name": "Houet Province",
-        "cities": []
-      },
-      {
-        "name": "Ioba Province",
-        "cities": []
-      },
-      {
-        "name": "Kadiogo Province",
-        "cities": []
-      },
-      {
-        "name": "Kénédougou Province",
-        "cities": []
-      },
-      {
-        "name": "Komondjari Province",
-        "cities": []
-      },
-      {
-        "name": "Kompienga Province",
-        "cities": []
-      },
-      {
-        "name": "Kossi Province",
-        "cities": []
-      },
-      {
-        "name": "Koulpélogo Province",
-        "cities": []
-      },
-      {
-        "name": "Kouritenga Province",
-        "cities": []
-      },
-      {
-        "name": "Kourwéogo Province",
-        "cities": []
-      },
-      {
-        "name": "Léraba Province",
-        "cities": []
-      },
-      {
-        "name": "Loroum Province",
-        "cities": []
-      },
-      {
-        "name": "Mouhoun",
-        "cities": []
-      },
-      {
-        "name": "Nahouri Province",
-        "cities": []
-      },
-      {
-        "name": "Namentenga Province",
-        "cities": []
-      },
-      {
-        "name": "Nayala Province",
-        "cities": []
       },
       {
         "name": "Nord Region, Burkina Faso",
@@ -8701,22 +7896,6 @@
         ]
       },
       {
-        "name": "Noumbiel Province",
-        "cities": []
-      },
-      {
-        "name": "Oubritenga Province",
-        "cities": []
-      },
-      {
-        "name": "Oudalan Province",
-        "cities": []
-      },
-      {
-        "name": "Passoré Province",
-        "cities": []
-      },
-      {
         "name": "Plateau-Central Region",
         "cities": [
           "Boussé",
@@ -8726,10 +7905,6 @@
           "Ziniaré",
           "Zorgo"
         ]
-      },
-      {
-        "name": "Poni Province",
-        "cities": []
       },
       {
         "name": "Sahel Region",
@@ -8744,30 +7919,6 @@
         ]
       },
       {
-        "name": "Sanguié Province",
-        "cities": []
-      },
-      {
-        "name": "Sanmatenga Province",
-        "cities": []
-      },
-      {
-        "name": "Séno Province",
-        "cities": []
-      },
-      {
-        "name": "Sissili Province",
-        "cities": []
-      },
-      {
-        "name": "Soum Province",
-        "cities": []
-      },
-      {
-        "name": "Sourou Province",
-        "cities": []
-      },
-      {
         "name": "Sud-Ouest Region",
         "cities": [
           "Batié",
@@ -8778,34 +7929,6 @@
           "Province du Noumbièl",
           "Province du Poni"
         ]
-      },
-      {
-        "name": "Tapoa Province",
-        "cities": []
-      },
-      {
-        "name": "Tuy Province",
-        "cities": []
-      },
-      {
-        "name": "Yagha Province",
-        "cities": []
-      },
-      {
-        "name": "Yatenga Province",
-        "cities": []
-      },
-      {
-        "name": "Ziro Province",
-        "cities": []
-      },
-      {
-        "name": "Zondoma Province",
-        "cities": []
-      },
-      {
-        "name": "Zoundwéogo Province",
-        "cities": []
       }
     ]
   },
@@ -8834,10 +7957,6 @@
         "cities": [
           "Bujumbura"
         ]
-      },
-      {
-        "name": "Bujumbura Rural Province",
-        "cities": []
       },
       {
         "name": "Bururi Province",
@@ -8992,10 +8111,6 @@
           "Srŏk Kông Pĭsei",
           "Srŏk Ŏdŏngk"
         ]
-      },
-      {
-        "name": "Kampong Thom",
-        "cities": []
       },
       {
         "name": "Kampot",
@@ -9904,10 +9019,6 @@
     ],
     "states": [
       {
-        "name": "Barlavento Islands",
-        "cities": []
-      },
-      {
         "name": "Boa Vista",
         "cities": [
           "Sal Rei"
@@ -10025,10 +9136,6 @@
         ]
       },
       {
-        "name": "Sotavento Islands",
-        "cities": []
-      },
-      {
         "name": "Tarrafal",
         "cities": [
           "Tarrafal"
@@ -10041,21 +9148,6 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Cayman Islands",
-    "iso3": "CYM",
-    "iso2": "KY",
-    "phone_code": "+1-345",
-    "capital": "George Town",
-    "currency": "KYD",
-    "currency_symbol": "$",
-    "native": "Cayman Islands",
-    "region": "Americas",
-    "nationalities": [
-      "Caymanian"
-    ],
-    "states": []
   },
   {
     "name": "Central African Republic",
@@ -10246,10 +9338,6 @@
           "Mandjafa",
           "Massenya"
         ]
-      },
-      {
-        "name": "Ennedi-Est",
-        "cities": []
       },
       {
         "name": "Ennedi-Ouest",
@@ -11310,10 +10398,6 @@
         ]
       },
       {
-        "name": "Hong Kong SAR",
-        "cities": []
-      },
-      {
         "name": "Hubei",
         "cities": [
           "Anlu",
@@ -11609,10 +10693,6 @@
           "Yebaishou",
           "Yingkou"
         ]
-      },
-      {
-        "name": "Macau SAR",
-        "cities": []
       },
       {
         "name": "Ningxia Huizu",
@@ -12050,36 +11130,6 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Christmas Island",
-    "iso3": "CXR",
-    "iso2": "CX",
-    "phone_code": "61",
-    "capital": "Flying Fish Cove",
-    "currency": "AUD",
-    "currency_symbol": "$",
-    "native": "Christmas Island",
-    "region": "Oceania",
-    "nationalities": [
-      "Christmas Island"
-    ],
-    "states": []
-  },
-  {
-    "name": "Cocos (Keeling) Islands",
-    "iso3": "CCK",
-    "iso2": "CC",
-    "phone_code": "61",
-    "capital": "West Island",
-    "currency": "AUD",
-    "currency_symbol": "$",
-    "native": "Cocos (Keeling) Islands",
-    "region": "Oceania",
-    "nationalities": [
-      "Cocos Island"
-    ],
-    "states": []
   },
   {
     "name": "Colombia",
@@ -13279,10 +12329,6 @@
         ]
       },
       {
-        "name": "Kouilou Department",
-        "cities": []
-      },
-      {
         "name": "Lékoumou Department",
         "cities": [
           "Sibiti"
@@ -13329,21 +12375,6 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Cook Islands",
-    "iso3": "COK",
-    "iso2": "CK",
-    "phone_code": "682",
-    "capital": "Avarua",
-    "currency": "NZD",
-    "currency_symbol": "$",
-    "native": "Cook Islands",
-    "region": "Oceania",
-    "nationalities": [
-      "Cook Island"
-    ],
-    "states": []
   },
   {
     "name": "Costa Rica",
@@ -13579,14 +12610,6 @@
         ]
       },
       {
-        "name": "Agnéby",
-        "cities": []
-      },
-      {
-        "name": "Bafing Region",
-        "cities": []
-      },
-      {
         "name": "Bas-Sassandra District",
         "cities": [
           "Gbôklé",
@@ -13595,10 +12618,6 @@
           "Sassandra",
           "Tabou"
         ]
-      },
-      {
-        "name": "Bas-Sassandra Region",
-        "cities": []
       },
       {
         "name": "Comoé District",
@@ -13623,10 +12642,6 @@
         ]
       },
       {
-        "name": "Denguélé Region",
-        "cities": []
-      },
-      {
         "name": "Dix-Huit Montagnes",
         "cities": [
           "Bangolo",
@@ -13642,10 +12657,6 @@
         ]
       },
       {
-        "name": "Fromager",
-        "cities": []
-      },
-      {
         "name": "Gôh-Djiboua District",
         "cities": [
           "Divo",
@@ -13656,14 +12667,6 @@
           "Lôh-Djiboua",
           "Oumé"
         ]
-      },
-      {
-        "name": "Haut-Sassandra",
-        "cities": []
-      },
-      {
-        "name": "Lacs District",
-        "cities": []
       },
       {
         "name": "Lacs Region",
@@ -13682,10 +12685,6 @@
         ]
       },
       {
-        "name": "Lagunes District",
-        "cities": []
-      },
-      {
         "name": "Lagunes region",
         "cities": [
           "Adzopé",
@@ -13700,26 +12699,6 @@
         ]
       },
       {
-        "name": "Marahoué Region",
-        "cities": []
-      },
-      {
-        "name": "Montagnes District",
-        "cities": []
-      },
-      {
-        "name": "Moyen-Cavally",
-        "cities": []
-      },
-      {
-        "name": "Moyen-Comoé",
-        "cities": []
-      },
-      {
-        "name": "N'zi-Comoé",
-        "cities": []
-      },
-      {
         "name": "Sassandra-Marahoué District",
         "cities": [
           "Bouaflé",
@@ -13730,22 +12709,6 @@
           "Vavoua",
           "Zuénoula"
         ]
-      },
-      {
-        "name": "Savanes Region",
-        "cities": []
-      },
-      {
-        "name": "Sud-Bandama",
-        "cities": []
-      },
-      {
-        "name": "Sud-Comoé",
-        "cities": []
-      },
-      {
-        "name": "Vallée du Bandama District",
-        "cities": []
       },
       {
         "name": "Vallée du Bandama Region",
@@ -13770,14 +12733,6 @@
           "Touba",
           "Worodougou"
         ]
-      },
-      {
-        "name": "Worodougou",
-        "cities": []
-      },
-      {
-        "name": "Yamoussoukro",
-        "cities": []
       },
       {
         "name": "Zanzan Region",
@@ -13956,10 +12911,6 @@
           "Vinež",
           "Višnjan-Visignano"
         ]
-      },
-      {
-        "name": "Karlovac",
-        "cities": []
       },
       {
         "name": "Koprivnica-Križevci",
@@ -14804,21 +13755,6 @@
     ]
   },
   {
-    "name": "Curaçao",
-    "iso3": "CUW",
-    "iso2": "CW",
-    "phone_code": "599",
-    "capital": "Willemstad",
-    "currency": "ANG",
-    "currency_symbol": "ƒ",
-    "native": "Curaçao",
-    "region": "Americas",
-    "nationalities": [
-      "Curacaoan"
-    ],
-    "states": []
-  },
-  {
     "name": "Cyprus",
     "iso3": "CYP",
     "iso2": "CY",
@@ -14974,98 +13910,6 @@
     ],
     "states": [
       {
-        "name": "Benešov",
-        "cities": []
-      },
-      {
-        "name": "Beroun",
-        "cities": []
-      },
-      {
-        "name": "Blansko",
-        "cities": []
-      },
-      {
-        "name": "Břeclav",
-        "cities": []
-      },
-      {
-        "name": "Brno-město",
-        "cities": []
-      },
-      {
-        "name": "Brno-venkov",
-        "cities": []
-      },
-      {
-        "name": "Bruntál",
-        "cities": []
-      },
-      {
-        "name": "Česká Lípa",
-        "cities": []
-      },
-      {
-        "name": "České Budějovice",
-        "cities": []
-      },
-      {
-        "name": "Český Krumlov",
-        "cities": []
-      },
-      {
-        "name": "Cheb",
-        "cities": []
-      },
-      {
-        "name": "Chomutov",
-        "cities": []
-      },
-      {
-        "name": "Chrudim",
-        "cities": []
-      },
-      {
-        "name": "Děčín",
-        "cities": []
-      },
-      {
-        "name": "Domažlice",
-        "cities": []
-      },
-      {
-        "name": "Frýdek-Místek",
-        "cities": []
-      },
-      {
-        "name": "Havlíčkův Brod",
-        "cities": []
-      },
-      {
-        "name": "Hodonín",
-        "cities": []
-      },
-      {
-        "name": "Hradec Králové",
-        "cities": []
-      },
-      {
-        "name": "Jablonec nad Nisou",
-        "cities": []
-      },
-      {
-        "name": "Jeseník",
-        "cities": []
-      },
-      {
-        "name": "Jičín",
-        "cities": []
-      },
-      {
-        "name": "Jihlava",
-        "cities": []
-      },
-      {
         "name": "Jihočeský kraj",
         "cities": [
           "Bavorov",
@@ -15176,10 +14020,6 @@
         ]
       },
       {
-        "name": "Jindřichův Hradec",
-        "cities": []
-      },
-      {
         "name": "Karlovarský kraj",
         "cities": [
           "Abertamy",
@@ -15229,26 +14069,6 @@
           "Vintířov",
           "Žlutice"
         ]
-      },
-      {
-        "name": "Karlovy Vary",
-        "cities": []
-      },
-      {
-        "name": "Karviná",
-        "cities": []
-      },
-      {
-        "name": "Kladno",
-        "cities": []
-      },
-      {
-        "name": "Klatovy",
-        "cities": []
-      },
-      {
-        "name": "Kolín",
-        "cities": []
       },
       {
         "name": "Kraj Vysočina",
@@ -15361,18 +14181,6 @@
         ]
       },
       {
-        "name": "Kroměříž",
-        "cities": []
-      },
-      {
-        "name": "Kutná Hora",
-        "cities": []
-      },
-      {
-        "name": "Liberec",
-        "cities": []
-      },
-      {
         "name": "Liberecký kraj",
         "cities": [
           "Benecko",
@@ -15426,22 +14234,6 @@
           "Stráž pod Ralskem",
           "Studenec"
         ]
-      },
-      {
-        "name": "Litoměřice",
-        "cities": []
-      },
-      {
-        "name": "Louny",
-        "cities": []
-      },
-      {
-        "name": "Mělník",
-        "cities": []
-      },
-      {
-        "name": "Mladá Boleslav",
-        "cities": []
       },
       {
         "name": "Moravskoslezský kraj",
@@ -15499,26 +14291,6 @@
         ]
       },
       {
-        "name": "Most",
-        "cities": []
-      },
-      {
-        "name": "Náchod",
-        "cities": []
-      },
-      {
-        "name": "Nový Jičín",
-        "cities": []
-      },
-      {
-        "name": "Nymburk",
-        "cities": []
-      },
-      {
-        "name": "Olomouc",
-        "cities": []
-      },
-      {
         "name": "Olomoucký kraj",
         "cities": [
           "Bedihošť",
@@ -15572,18 +14344,6 @@
           "Mostkovice",
           "Náklo"
         ]
-      },
-      {
-        "name": "Opava",
-        "cities": []
-      },
-      {
-        "name": "Ostrava-město",
-        "cities": []
-      },
-      {
-        "name": "Pardubice",
-        "cities": []
       },
       {
         "name": "Pardubický kraj",
@@ -15641,14 +14401,6 @@
         ]
       },
       {
-        "name": "Pelhřimov",
-        "cities": []
-      },
-      {
-        "name": "Písek",
-        "cities": []
-      },
-      {
         "name": "Plzeň-jih",
         "cities": [
           "Bělá nad Radbuzou",
@@ -15704,30 +14456,6 @@
         ]
       },
       {
-        "name": "Plzeň-město",
-        "cities": []
-      },
-      {
-        "name": "Plzeň-sever",
-        "cities": []
-      },
-      {
-        "name": "Plzeňský kraj",
-        "cities": []
-      },
-      {
-        "name": "Prachatice",
-        "cities": []
-      },
-      {
-        "name": "Praha-východ",
-        "cities": []
-      },
-      {
-        "name": "Praha-západ",
-        "cities": []
-      },
-      {
         "name": "Praha, Hlavní město",
         "cities": [
           "Braník",
@@ -15754,42 +14482,6 @@
           "Vysehrad",
           "Vysočany"
         ]
-      },
-      {
-        "name": "Přerov",
-        "cities": []
-      },
-      {
-        "name": "Příbram",
-        "cities": []
-      },
-      {
-        "name": "Prostějov",
-        "cities": []
-      },
-      {
-        "name": "Rakovník",
-        "cities": []
-      },
-      {
-        "name": "Rokycany",
-        "cities": []
-      },
-      {
-        "name": "Rychnov nad Kněžnou",
-        "cities": []
-      },
-      {
-        "name": "Semily",
-        "cities": []
-      },
-      {
-        "name": "Sokolov",
-        "cities": []
-      },
-      {
-        "name": "Strakonice",
-        "cities": []
       },
       {
         "name": "Středočeský kraj",
@@ -15847,38 +14539,6 @@
         ]
       },
       {
-        "name": "Šumperk",
-        "cities": []
-      },
-      {
-        "name": "Svitavy",
-        "cities": []
-      },
-      {
-        "name": "Tábor",
-        "cities": []
-      },
-      {
-        "name": "Tachov",
-        "cities": []
-      },
-      {
-        "name": "Teplice",
-        "cities": []
-      },
-      {
-        "name": "Třebíč",
-        "cities": []
-      },
-      {
-        "name": "Trutnov",
-        "cities": []
-      },
-      {
-        "name": "Uherské Hradiště",
-        "cities": []
-      },
-      {
         "name": "Ústecký kraj",
         "cities": [
           "Bechlín",
@@ -15934,26 +14594,6 @@
         ]
       },
       {
-        "name": "Ústí nad Labem",
-        "cities": []
-      },
-      {
-        "name": "Ústí nad Orlicí",
-        "cities": []
-      },
-      {
-        "name": "Vsetín",
-        "cities": []
-      },
-      {
-        "name": "Vyškov",
-        "cities": []
-      },
-      {
-        "name": "Žďár nad Sázavou",
-        "cities": []
-      },
-      {
         "name": "Zlín",
         "cities": [
           "Babice",
@@ -16007,14 +14647,6 @@
           "Okres Vsetín",
           "Okres Zlín"
         ]
-      },
-      {
-        "name": "Zlínský kraj",
-        "cities": []
-      },
-      {
-        "name": "Znojmo",
-        "cities": []
       }
     ]
   },
@@ -16090,10 +14722,6 @@
         ]
       },
       {
-        "name": "Kasaï Central",
-        "cities": []
-      },
-      {
         "name": "Kasaï Oriental",
         "cities": [
           "Gandajika",
@@ -16140,10 +14768,6 @@
           "Lubao",
           "Mwene-Ditu"
         ]
-      },
-      {
-        "name": "Lualaba",
-        "cities": []
       },
       {
         "name": "Mai-Ndombe",
@@ -17829,10 +16453,6 @@
         ]
       },
       {
-        "name": "Insular Region",
-        "cities": []
-      },
-      {
         "name": "Kié-Ntem Province",
         "cities": [
           "Ebebiyin",
@@ -17851,10 +16471,6 @@
           "Mbini",
           "Río Campo"
         ]
-      },
-      {
-        "name": "Río Muni",
-        "cities": []
       },
       {
         "name": "Wele-Nzas Province",
@@ -18461,36 +17077,6 @@
     ]
   },
   {
-    "name": "Falkland Islands",
-    "iso3": "FLK",
-    "iso2": "FK",
-    "phone_code": "500",
-    "capital": "Stanley",
-    "currency": "FKP",
-    "currency_symbol": "£",
-    "native": "Falkland Islands",
-    "region": "Americas",
-    "nationalities": [
-      "Falkland Island"
-    ],
-    "states": []
-  },
-  {
-    "name": "Faroe Islands",
-    "iso3": "FRO",
-    "iso2": "FO",
-    "phone_code": "298",
-    "capital": "Torshavn",
-    "currency": "DKK",
-    "currency_symbol": "Kr.",
-    "native": "Føroyar",
-    "region": "Europe",
-    "nationalities": [
-      "Faroese"
-    ],
-    "states": []
-  },
-  {
     "name": "Fiji Islands",
     "iso3": "FJI",
     "iso2": "FJ",
@@ -18504,18 +17090,6 @@
       "Fijian"
     ],
     "states": [
-      {
-        "name": "Ba",
-        "cities": []
-      },
-      {
-        "name": "Bua",
-        "cities": []
-      },
-      {
-        "name": "Cakaudrove",
-        "cities": []
-      },
       {
         "name": "Central Division",
         "cities": [
@@ -18537,34 +17111,6 @@
         ]
       },
       {
-        "name": "Kadavu",
-        "cities": []
-      },
-      {
-        "name": "Lau",
-        "cities": []
-      },
-      {
-        "name": "Lomaiviti",
-        "cities": []
-      },
-      {
-        "name": "Macuata",
-        "cities": []
-      },
-      {
-        "name": "Nadroga-Navosa",
-        "cities": []
-      },
-      {
-        "name": "Naitasiri",
-        "cities": []
-      },
-      {
-        "name": "Namosi",
-        "cities": []
-      },
-      {
         "name": "Northern Division",
         "cities": [
           "Bua Province",
@@ -18572,26 +17118,6 @@
           "Labasa",
           "Macuata Province"
         ]
-      },
-      {
-        "name": "Ra",
-        "cities": []
-      },
-      {
-        "name": "Rewa",
-        "cities": []
-      },
-      {
-        "name": "Rotuma",
-        "cities": []
-      },
-      {
-        "name": "Serua",
-        "cities": []
-      },
-      {
-        "name": "Tailevu",
-        "cities": []
       },
       {
         "name": "Western Division",
@@ -18871,10 +17397,6 @@
           "Ylikiiminki",
           "Ylivieska"
         ]
-      },
-      {
-        "name": "Northern Savonia",
-        "cities": []
       },
       {
         "name": "Ostrobothnia",
@@ -19167,50 +17689,6 @@
     ],
     "states": [
       {
-        "name": "Ain",
-        "cities": []
-      },
-      {
-        "name": "Aisne",
-        "cities": []
-      },
-      {
-        "name": "Allier",
-        "cities": []
-      },
-      {
-        "name": "Alpes-de-Haute-Provence",
-        "cities": []
-      },
-      {
-        "name": "Alpes-Maritimes",
-        "cities": []
-      },
-      {
-        "name": "Alsace",
-        "cities": []
-      },
-      {
-        "name": "Ardèche",
-        "cities": []
-      },
-      {
-        "name": "Ardennes",
-        "cities": []
-      },
-      {
-        "name": "Ariège",
-        "cities": []
-      },
-      {
-        "name": "Aube",
-        "cities": []
-      },
-      {
-        "name": "Aude",
-        "cities": []
-      },
-      {
         "name": "Auvergne-Rhône-Alpes",
         "cities": [
           "Abondance",
@@ -19264,18 +17742,6 @@
           "Arenthon",
           "Arlanc"
         ]
-      },
-      {
-        "name": "Aveyron",
-        "cities": []
-      },
-      {
-        "name": "Bas-Rhin",
-        "cities": []
-      },
-      {
-        "name": "Bouches-du-Rhône",
-        "cities": []
       },
       {
         "name": "Bourgogne-Franche-Comté",
@@ -19388,14 +17854,6 @@
         ]
       },
       {
-        "name": "Calvados",
-        "cities": []
-      },
-      {
-        "name": "Cantal",
-        "cities": []
-      },
-      {
         "name": "Centre-Val de Loire",
         "cities": [
           "Abilly",
@@ -19449,26 +17907,6 @@
           "Boigny-sur-Bionne",
           "Boiscommun"
         ]
-      },
-      {
-        "name": "Charente",
-        "cities": []
-      },
-      {
-        "name": "Charente-Maritime",
-        "cities": []
-      },
-      {
-        "name": "Cher",
-        "cities": []
-      },
-      {
-        "name": "Clipperton",
-        "cities": []
-      },
-      {
-        "name": "Corrèze",
-        "cities": []
       },
       {
         "name": "Corse",
@@ -19526,78 +17964,6 @@
         ]
       },
       {
-        "name": "Corse-du-Sud",
-        "cities": []
-      },
-      {
-        "name": "Côte-d'Or",
-        "cities": []
-      },
-      {
-        "name": "Côtes-d'Armor",
-        "cities": []
-      },
-      {
-        "name": "Creuse",
-        "cities": []
-      },
-      {
-        "name": "Deux-Sèvres",
-        "cities": []
-      },
-      {
-        "name": "Dordogne",
-        "cities": []
-      },
-      {
-        "name": "Doubs",
-        "cities": []
-      },
-      {
-        "name": "Drôme",
-        "cities": []
-      },
-      {
-        "name": "Essonne",
-        "cities": []
-      },
-      {
-        "name": "Eure",
-        "cities": []
-      },
-      {
-        "name": "Eure-et-Loir",
-        "cities": []
-      },
-      {
-        "name": "Finistère",
-        "cities": []
-      },
-      {
-        "name": "French Guiana",
-        "cities": []
-      },
-      {
-        "name": "French Polynesia",
-        "cities": []
-      },
-      {
-        "name": "French Southern and Antarctic Lands",
-        "cities": []
-      },
-      {
-        "name": "Gard",
-        "cities": []
-      },
-      {
-        "name": "Gers",
-        "cities": []
-      },
-      {
-        "name": "Gironde",
-        "cities": []
-      },
-      {
         "name": "Grand-Est",
         "cities": [
           "Abreschviller",
@@ -19651,50 +18017,6 @@
           "Bar-sur-Seine",
           "Barr"
         ]
-      },
-      {
-        "name": "Guadeloupe",
-        "cities": []
-      },
-      {
-        "name": "Haut-Rhin",
-        "cities": []
-      },
-      {
-        "name": "Haute-Corse",
-        "cities": []
-      },
-      {
-        "name": "Haute-Garonne",
-        "cities": []
-      },
-      {
-        "name": "Haute-Loire",
-        "cities": []
-      },
-      {
-        "name": "Haute-Marne",
-        "cities": []
-      },
-      {
-        "name": "Haute-Saône",
-        "cities": []
-      },
-      {
-        "name": "Haute-Savoie",
-        "cities": []
-      },
-      {
-        "name": "Haute-Vienne",
-        "cities": []
-      },
-      {
-        "name": "Hautes-Alpes",
-        "cities": []
-      },
-      {
-        "name": "Hautes-Pyrénées",
-        "cities": []
       },
       {
         "name": "Hauts-de-France",
@@ -19752,14 +18074,6 @@
         ]
       },
       {
-        "name": "Hauts-de-Seine",
-        "cities": []
-      },
-      {
-        "name": "Hérault",
-        "cities": []
-      },
-      {
         "name": "Île-de-France",
         "cities": [
           "Ableiges",
@@ -19813,114 +18127,6 @@
           "Bernes-sur-Oise",
           "Bessancourt"
         ]
-      },
-      {
-        "name": "Ille-et-Vilaine",
-        "cities": []
-      },
-      {
-        "name": "Indre",
-        "cities": []
-      },
-      {
-        "name": "Indre-et-Loire",
-        "cities": []
-      },
-      {
-        "name": "Isère",
-        "cities": []
-      },
-      {
-        "name": "Jura",
-        "cities": []
-      },
-      {
-        "name": "La Réunion",
-        "cities": []
-      },
-      {
-        "name": "Landes",
-        "cities": []
-      },
-      {
-        "name": "Loir-et-Cher",
-        "cities": []
-      },
-      {
-        "name": "Loire",
-        "cities": []
-      },
-      {
-        "name": "Loire-Atlantique",
-        "cities": []
-      },
-      {
-        "name": "Loiret",
-        "cities": []
-      },
-      {
-        "name": "Lot",
-        "cities": []
-      },
-      {
-        "name": "Lot-et-Garonne",
-        "cities": []
-      },
-      {
-        "name": "Lozère",
-        "cities": []
-      },
-      {
-        "name": "Maine-et-Loire",
-        "cities": []
-      },
-      {
-        "name": "Manche",
-        "cities": []
-      },
-      {
-        "name": "Marne",
-        "cities": []
-      },
-      {
-        "name": "Martinique",
-        "cities": []
-      },
-      {
-        "name": "Mayenne",
-        "cities": []
-      },
-      {
-        "name": "Mayotte",
-        "cities": []
-      },
-      {
-        "name": "Métropole de Lyon",
-        "cities": []
-      },
-      {
-        "name": "Meurthe-et-Moselle",
-        "cities": []
-      },
-      {
-        "name": "Meuse",
-        "cities": []
-      },
-      {
-        "name": "Morbihan",
-        "cities": []
-      },
-      {
-        "name": "Moselle",
-        "cities": []
-      },
-      {
-        "name": "Nièvre",
-        "cities": []
-      },
-      {
-        "name": "Nord",
-        "cities": []
       },
       {
         "name": "Normandie",
@@ -20088,22 +18294,6 @@
         ]
       },
       {
-        "name": "Oise",
-        "cities": []
-      },
-      {
-        "name": "Orne",
-        "cities": []
-      },
-      {
-        "name": "Paris",
-        "cities": []
-      },
-      {
-        "name": "Pas-de-Calais",
-        "cities": []
-      },
-      {
         "name": "Pays-de-la-Loire",
         "cities": [
           "Abbaretz",
@@ -20212,161 +18402,8 @@
           "Bouc-Bel-Air",
           "Boulbon"
         ]
-      },
-      {
-        "name": "Puy-de-Dôme",
-        "cities": []
-      },
-      {
-        "name": "Pyrénées-Atlantiques",
-        "cities": []
-      },
-      {
-        "name": "Pyrénées-Orientales",
-        "cities": []
-      },
-      {
-        "name": "Rhône",
-        "cities": []
-      },
-      {
-        "name": "Saint Pierre and Miquelon",
-        "cities": []
-      },
-      {
-        "name": "Saint-Barthélemy",
-        "cities": []
-      },
-      {
-        "name": "Saint-Martin",
-        "cities": []
-      },
-      {
-        "name": "Saône-et-Loire",
-        "cities": []
-      },
-      {
-        "name": "Sarthe",
-        "cities": []
-      },
-      {
-        "name": "Savoie",
-        "cities": []
-      },
-      {
-        "name": "Seine-et-Marne",
-        "cities": []
-      },
-      {
-        "name": "Seine-Maritime",
-        "cities": []
-      },
-      {
-        "name": "Seine-Saint-Denis",
-        "cities": []
-      },
-      {
-        "name": "Somme",
-        "cities": []
-      },
-      {
-        "name": "Tarn",
-        "cities": []
-      },
-      {
-        "name": "Tarn-et-Garonne",
-        "cities": []
-      },
-      {
-        "name": "Territoire de Belfort",
-        "cities": []
-      },
-      {
-        "name": "Val-d'Oise",
-        "cities": []
-      },
-      {
-        "name": "Val-de-Marne",
-        "cities": []
-      },
-      {
-        "name": "Var",
-        "cities": []
-      },
-      {
-        "name": "Vaucluse",
-        "cities": []
-      },
-      {
-        "name": "Vendée",
-        "cities": []
-      },
-      {
-        "name": "Vienne",
-        "cities": []
-      },
-      {
-        "name": "Vosges",
-        "cities": []
-      },
-      {
-        "name": "Wallis and Futuna",
-        "cities": []
-      },
-      {
-        "name": "Yonne",
-        "cities": []
-      },
-      {
-        "name": "Yvelines",
-        "cities": []
       }
     ]
-  },
-  {
-    "name": "French Guiana",
-    "iso3": "GUF",
-    "iso2": "GF",
-    "phone_code": "594",
-    "capital": "Cayenne",
-    "currency": "EUR",
-    "currency_symbol": "€",
-    "native": "Guyane française",
-    "region": "Americas",
-    "nationalities": [
-      "French Guianese"
-    ],
-    "states": []
-  },
-  {
-    "name": "French Polynesia",
-    "iso3": "PYF",
-    "iso2": "PF",
-    "phone_code": "689",
-    "capital": "Papeete",
-    "currency": "XPF",
-    "currency_symbol": "₣",
-    "native": "Polynésie française",
-    "region": "Oceania",
-    "nationalities": [
-      "French Polynesia"
-    ],
-    "states": []
-  },
-  {
-    "name": "French Southern Territories",
-    "iso3": "ATF",
-    "iso2": "TF",
-    "phone_code": "262",
-    "capital": "Port-aux-Francais",
-    "currency": "EUR",
-    "currency_symbol": "€",
-    "native": "Territoire des Terres australes et antarctiques fr",
-    "region": "Africa",
-    "nationalities": [
-      "French Southern Territories"
-    ],
-    "states": []
   },
   {
     "name": "Gabon",
@@ -20699,10 +18736,6 @@
         ]
       },
       {
-        "name": "Khelvachauri Municipality",
-        "cities": []
-      },
-      {
         "name": "Kvemo Kartli",
         "cities": [
           "Bolnisi",
@@ -20778,10 +18811,6 @@
           "Tsaghveri",
           "Vale"
         ]
-      },
-      {
-        "name": "Senaki Municipality",
-        "cities": []
       },
       {
         "name": "Shida Kartli",
@@ -21858,21 +19887,6 @@
     ]
   },
   {
-    "name": "Gibraltar",
-    "iso3": "GIB",
-    "iso2": "GI",
-    "phone_code": "350",
-    "capital": "Gibraltar",
-    "currency": "GIP",
-    "currency_symbol": "£",
-    "native": "Gibraltar",
-    "region": "Europe",
-    "nationalities": [
-      "Gibraltar"
-    ],
-    "states": []
-  },
-  {
     "name": "Greece",
     "iso3": "GRC",
     "iso2": "GR",
@@ -21886,22 +19900,6 @@
       "Greek, Hellenic"
     ],
     "states": [
-      {
-        "name": "Achaea Regional Unit",
-        "cities": []
-      },
-      {
-        "name": "Aetolia-Acarnania Regional Unit",
-        "cities": []
-      },
-      {
-        "name": "Arcadia Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Argolis Regional Unit",
-        "cities": []
-      },
       {
         "name": "Attica Region",
         "cities": [
@@ -21956,10 +19954,6 @@
           "Irákleio",
           "Kaisarianí"
         ]
-      },
-      {
-        "name": "Boeotia Regional Unit",
-        "cities": []
       },
       {
         "name": "Central Greece Region",
@@ -22072,10 +20066,6 @@
         ]
       },
       {
-        "name": "Chania Regional Unit",
-        "cities": []
-      },
-      {
         "name": "Corfu Prefecture",
         "cities": [
           "Farkadóna",
@@ -22098,10 +20088,6 @@
           "Vasilikí",
           "Zárkos"
         ]
-      },
-      {
-        "name": "Corinthia Regional Unit",
-        "cities": []
       },
       {
         "name": "Crete Region",
@@ -22159,10 +20145,6 @@
         ]
       },
       {
-        "name": "Drama Regional Unit",
-        "cities": []
-      },
-      {
         "name": "East Attica Regional Unit",
         "cities": [
           "Ágios Athanásios",
@@ -22218,10 +20200,6 @@
         ]
       },
       {
-        "name": "East Macedonia and Thrace",
-        "cities": []
-      },
-      {
         "name": "Epirus Region",
         "cities": [
           "Agía Kyriakí",
@@ -22275,22 +20253,6 @@
         ]
       },
       {
-        "name": "Euboea",
-        "cities": []
-      },
-      {
-        "name": "Grevena Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Imathia Regional Unit",
-        "cities": []
-      },
-      {
-        "name": "Ioannina Regional Unit",
-        "cities": []
-      },
-      {
         "name": "Ionian Islands Region",
         "cities": [
           "Acharávi",
@@ -22326,14 +20288,6 @@
         ]
       },
       {
-        "name": "Karditsa Regional Unit",
-        "cities": []
-      },
-      {
-        "name": "Kastoria Regional Unit",
-        "cities": []
-      },
-      {
         "name": "Kefalonia Prefecture",
         "cities": [
           "Agía Triáda",
@@ -22357,22 +20311,6 @@
           "Proástio",
           "Sofádes"
         ]
-      },
-      {
-        "name": "Kilkis Regional Unit",
-        "cities": []
-      },
-      {
-        "name": "Kozani Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Laconia",
-        "cities": []
-      },
-      {
-        "name": "Larissa Prefecture",
-        "cities": []
       },
       {
         "name": "Lefkada Regional Unit",
@@ -22401,10 +20339,6 @@
           "Volos",
           "Zagorá"
         ]
-      },
-      {
-        "name": "Pella Regional Unit",
-        "cities": []
       },
       {
         "name": "Peloponnese Region",
@@ -22462,18 +20396,6 @@
         ]
       },
       {
-        "name": "Phthiotis Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Preveza Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Serres Prefecture",
-        "cities": []
-      },
-      {
         "name": "South Aegean",
         "cities": [
           "Adámas",
@@ -22527,10 +20449,6 @@
           "Ródos",
           "Sérifos"
         ]
-      },
-      {
-        "name": "Thessaloniki Regional Unit",
-        "cities": []
       },
       {
         "name": "West Greece Region",
@@ -22633,21 +20551,6 @@
     ]
   },
   {
-    "name": "Greenland",
-    "iso3": "GRL",
-    "iso2": "GL",
-    "phone_code": "299",
-    "capital": "Nuuk",
-    "currency": "DKK",
-    "currency_symbol": "Kr.",
-    "native": "Kalaallit Nunaat",
-    "region": "Americas",
-    "nationalities": [
-      "Greenlandic"
-    ],
-    "states": []
-  },
-  {
     "name": "Grenada",
     "iso3": "GRD",
     "iso2": "GD",
@@ -22704,36 +20607,6 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Guadeloupe",
-    "iso3": "GLP",
-    "iso2": "GP",
-    "phone_code": "590",
-    "capital": "Basse-Terre",
-    "currency": "EUR",
-    "currency_symbol": "€",
-    "native": "Guadeloupe",
-    "region": "Americas",
-    "nationalities": [
-      "Guadeloupe"
-    ],
-    "states": []
-  },
-  {
-    "name": "Guam",
-    "iso3": "GUM",
-    "iso2": "GU",
-    "phone_code": "+1-671",
-    "capital": "Hagatna",
-    "currency": "USD",
-    "currency_symbol": "$",
-    "native": "Guam",
-    "region": "Oceania",
-    "nationalities": [
-      "Guamanian, Guambat"
-    ],
-    "states": []
   },
   {
     "name": "Guatemala",
@@ -23239,21 +21112,6 @@
     ]
   },
   {
-    "name": "Guernsey and Alderney",
-    "iso3": "GGY",
-    "iso2": "GG",
-    "phone_code": "+44-1481",
-    "capital": "St Peter Port",
-    "currency": "GBP",
-    "currency_symbol": "£",
-    "native": "Guernsey",
-    "region": "Europe",
-    "nationalities": [
-      "Channel Island"
-    ],
-    "states": []
-  },
-  {
     "name": "Guinea",
     "iso3": "GIN",
     "iso2": "GN",
@@ -23267,18 +21125,6 @@
       "Guinean"
     ],
     "states": [
-      {
-        "name": "Beyla Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Boffa Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Boké Prefecture",
-        "cities": []
-      },
       {
         "name": "Boké Region",
         "cities": [
@@ -23303,50 +21149,6 @@
         ]
       },
       {
-        "name": "Coyah Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Dabola Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Dalaba Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Dinguiraye Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Dubréka Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Faranah Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Forécariah Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Fria Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Gaoual Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Guéckédou Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Kankan Prefecture",
-        "cities": []
-      },
-      {
         "name": "Kankan Region",
         "cities": [
           "Kankan",
@@ -23360,14 +21162,6 @@
           "Siguiri Prefecture",
           "Tokonou"
         ]
-      },
-      {
-        "name": "Kérouané Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Kindia Prefecture",
-        "cities": []
       },
       {
         "name": "Kindia Region",
@@ -23384,26 +21178,6 @@
         ]
       },
       {
-        "name": "Kissidougou Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Koubia Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Koundara Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Kouroussa Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Labé Prefecture",
-        "cities": []
-      },
-      {
         "name": "Labé Region",
         "cities": [
           "Koubia",
@@ -23418,26 +21192,6 @@
         ]
       },
       {
-        "name": "Lélouma Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Lola Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Macenta Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Mali Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Mamou Prefecture",
-        "cities": []
-      },
-      {
         "name": "Mamou Region",
         "cities": [
           "Dalaba",
@@ -23445,14 +21199,6 @@
           "Mamou Prefecture",
           "Pita"
         ]
-      },
-      {
-        "name": "Mandiana Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Nzérékoré Prefecture",
-        "cities": []
       },
       {
         "name": "Nzérékoré Region",
@@ -23467,26 +21213,6 @@
           "Préfecture de Guékédou",
           "Yomou"
         ]
-      },
-      {
-        "name": "Pita Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Siguiri Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Télimélé Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Tougué Prefecture",
-        "cities": []
-      },
-      {
-        "name": "Yomou Prefecture",
-        "cities": []
       }
     ]
   },
@@ -23538,14 +21264,6 @@
         ]
       },
       {
-        "name": "Leste Province",
-        "cities": []
-      },
-      {
-        "name": "Norte Province",
-        "cities": []
-      },
-      {
         "name": "Oio Region",
         "cities": [
           "Bissorã",
@@ -23558,10 +21276,6 @@
         "cities": [
           "Buba"
         ]
-      },
-      {
-        "name": "Sul Province",
-        "cities": []
       },
       {
         "name": "Tombali Region",
@@ -23841,21 +21555,6 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Heard Island and McDonald Islands",
-    "iso3": "HMD",
-    "iso2": "HM",
-    "phone_code": "672",
-    "capital": "",
-    "currency": "AUD",
-    "currency_symbol": "$",
-    "native": "Heard Island and McDonald Islands",
-    "region": "",
-    "nationalities": [
-      "Heard Island, McDonald Islands"
-    ],
-    "states": []
   },
   {
     "name": "Honduras",
@@ -24521,10 +22220,6 @@
         ]
       },
       {
-        "name": "Eastern",
-        "cities": []
-      },
-      {
         "name": "Islands",
         "cities": [
           "Tai O"
@@ -24535,10 +22230,6 @@
         "cities": [
           "Kowloon Tong"
         ]
-      },
-      {
-        "name": "Kwai Tsing",
-        "cities": []
       },
       {
         "name": "Kwun Tong",
@@ -24596,10 +22287,6 @@
           "Tsuen Wan",
           "Tuen Mun\t"
         ]
-      },
-      {
-        "name": "Tuen Mun",
-        "cities": []
       },
       {
         "name": "Wan Chai",
@@ -24793,10 +22480,6 @@
         ]
       },
       {
-        "name": "Békéscsaba",
-        "cities": []
-      },
-      {
         "name": "Borsod-Abaúj-Zemplén",
         "cities": [
           "Abaújszántó",
@@ -24928,22 +22611,6 @@
         ]
       },
       {
-        "name": "Debrecen",
-        "cities": []
-      },
-      {
-        "name": "Dunaújváros",
-        "cities": []
-      },
-      {
-        "name": "Eger",
-        "cities": []
-      },
-      {
-        "name": "Érd",
-        "cities": []
-      },
-      {
         "name": "Fejér County",
         "cities": [
           "Aba",
@@ -24997,10 +22664,6 @@
           "Sárosd",
           "Sárszentmihály"
         ]
-      },
-      {
-        "name": "Győr",
-        "cities": []
       },
       {
         "name": "Győr-Moson-Sopron County",
@@ -25160,10 +22823,6 @@
         ]
       },
       {
-        "name": "Hódmezővásárhely",
-        "cities": []
-      },
-      {
         "name": "Jász-Nagykun-Szolnok County",
         "cities": [
           "Abádszalók",
@@ -25217,14 +22876,6 @@
           "Törökszentmiklósi Járás",
           "Tószeg"
         ]
-      },
-      {
-        "name": "Kaposvár",
-        "cities": []
-      },
-      {
-        "name": "Kecskemét",
-        "cities": []
       },
       {
         "name": "Komárom-Esztergom",
@@ -25282,14 +22933,6 @@
         ]
       },
       {
-        "name": "Miskolc",
-        "cities": []
-      },
-      {
-        "name": "Nagykanizsa",
-        "cities": []
-      },
-      {
         "name": "Nógrád County",
         "cities": [
           "Balassagyarmat",
@@ -25324,14 +22967,6 @@
           "Szurdokpüspöki",
           "Tar"
         ]
-      },
-      {
-        "name": "Nyíregyháza",
-        "cities": []
-      },
-      {
-        "name": "Pécs",
-        "cities": []
       },
       {
         "name": "Pest County",
@@ -25389,10 +23024,6 @@
         ]
       },
       {
-        "name": "Salgótarján",
-        "cities": []
-      },
-      {
         "name": "Somogy County",
         "cities": [
           "Ádánd",
@@ -25434,10 +23065,6 @@
           "Taszár",
           "Zamárdi"
         ]
-      },
-      {
-        "name": "Sopron",
-        "cities": []
       },
       {
         "name": "Szabolcs-Szatmár-Bereg County",
@@ -25493,30 +23120,6 @@
           "Nyírbátori Járás",
           "Nyírbéltek"
         ]
-      },
-      {
-        "name": "Szeged",
-        "cities": []
-      },
-      {
-        "name": "Székesfehérvár",
-        "cities": []
-      },
-      {
-        "name": "Szekszárd",
-        "cities": []
-      },
-      {
-        "name": "Szolnok",
-        "cities": []
-      },
-      {
-        "name": "Szombathely",
-        "cities": []
-      },
-      {
-        "name": "Tatabánya",
-        "cities": []
       },
       {
         "name": "Tolna County",
@@ -25587,10 +23190,6 @@
         ]
       },
       {
-        "name": "Veszprém",
-        "cities": []
-      },
-      {
         "name": "Veszprém County",
         "cities": [
           "Ajka",
@@ -25659,10 +23258,6 @@
           "Zalaszentgrót",
           "Zalaszentgróti Járás"
         ]
-      },
-      {
-        "name": "Zalaegerszeg",
-        "cities": []
       }
     ]
   },
@@ -29722,18 +27317,6 @@
     ],
     "states": [
       {
-        "name": "Carlow",
-        "cities": []
-      },
-      {
-        "name": "Cavan",
-        "cities": []
-      },
-      {
-        "name": "Clare",
-        "cities": []
-      },
-      {
         "name": "Connacht",
         "cities": [
           "Athenry",
@@ -29779,38 +27362,6 @@
           "Tuam",
           "Westport"
         ]
-      },
-      {
-        "name": "Cork",
-        "cities": []
-      },
-      {
-        "name": "Donegal",
-        "cities": []
-      },
-      {
-        "name": "Dublin",
-        "cities": []
-      },
-      {
-        "name": "Galway",
-        "cities": []
-      },
-      {
-        "name": "Kerry",
-        "cities": []
-      },
-      {
-        "name": "Kildare",
-        "cities": []
-      },
-      {
-        "name": "Kilkenny",
-        "cities": []
-      },
-      {
-        "name": "Laois",
-        "cities": []
       },
       {
         "name": "Leinster",
@@ -29868,30 +27419,6 @@
         ]
       },
       {
-        "name": "Limerick",
-        "cities": []
-      },
-      {
-        "name": "Longford",
-        "cities": []
-      },
-      {
-        "name": "Louth",
-        "cities": []
-      },
-      {
-        "name": "Mayo",
-        "cities": []
-      },
-      {
-        "name": "Meath",
-        "cities": []
-      },
-      {
-        "name": "Monaghan",
-        "cities": []
-      },
-      {
         "name": "Munster",
         "cities": [
           "Abbeyfeale",
@@ -29947,22 +27474,6 @@
         ]
       },
       {
-        "name": "Offaly",
-        "cities": []
-      },
-      {
-        "name": "Roscommon",
-        "cities": []
-      },
-      {
-        "name": "Sligo",
-        "cities": []
-      },
-      {
-        "name": "Tipperary",
-        "cities": []
-      },
-      {
         "name": "Ulster",
         "cities": [
           "An Cabhán",
@@ -30001,22 +27512,6 @@
           "Raphoe",
           "Virginia"
         ]
-      },
-      {
-        "name": "Waterford",
-        "cities": []
-      },
-      {
-        "name": "Westmeath",
-        "cities": []
-      },
-      {
-        "name": "Wexford",
-        "cities": []
-      },
-      {
-        "name": "Wicklow",
-        "cities": []
       }
     ]
   },
@@ -30280,18 +27775,6 @@
         ]
       },
       {
-        "name": "Agrigento",
-        "cities": []
-      },
-      {
-        "name": "Alessandria",
-        "cities": []
-      },
-      {
-        "name": "Ancona",
-        "cities": []
-      },
-      {
         "name": "Aosta Valley",
         "cities": [
           "Allein",
@@ -30402,18 +27885,6 @@
         ]
       },
       {
-        "name": "Ascoli Piceno",
-        "cities": []
-      },
-      {
-        "name": "Asti",
-        "cities": []
-      },
-      {
-        "name": "Avellino",
-        "cities": []
-      },
-      {
         "name": "Barletta-Andria-Trani",
         "cities": [
           "Andria",
@@ -30484,30 +27955,6 @@
         ]
       },
       {
-        "name": "Belluno",
-        "cities": []
-      },
-      {
-        "name": "Benevento",
-        "cities": []
-      },
-      {
-        "name": "Bergamo",
-        "cities": []
-      },
-      {
-        "name": "Biella",
-        "cities": []
-      },
-      {
-        "name": "Brescia",
-        "cities": []
-      },
-      {
-        "name": "Brindisi",
-        "cities": []
-      },
-      {
         "name": "Calabria",
         "cities": [
           "Acconia",
@@ -30561,10 +28008,6 @@
           "Borgata Marina",
           "Borgia"
         ]
-      },
-      {
-        "name": "Caltanissetta",
-        "cities": []
       },
       {
         "name": "Campania",
@@ -30622,42 +28065,6 @@
         ]
       },
       {
-        "name": "Campobasso",
-        "cities": []
-      },
-      {
-        "name": "Caserta",
-        "cities": []
-      },
-      {
-        "name": "Catanzaro",
-        "cities": []
-      },
-      {
-        "name": "Chieti",
-        "cities": []
-      },
-      {
-        "name": "Como",
-        "cities": []
-      },
-      {
-        "name": "Cosenza",
-        "cities": []
-      },
-      {
-        "name": "Cremona",
-        "cities": []
-      },
-      {
-        "name": "Crotone",
-        "cities": []
-      },
-      {
-        "name": "Cuneo",
-        "cities": []
-      },
-      {
         "name": "Emilia-Romagna",
         "cities": [
           "Agazzano",
@@ -30711,26 +28118,6 @@
           "Borzano",
           "Bosco Mesola"
         ]
-      },
-      {
-        "name": "Enna",
-        "cities": []
-      },
-      {
-        "name": "Fermo",
-        "cities": []
-      },
-      {
-        "name": "Ferrara",
-        "cities": []
-      },
-      {
-        "name": "Foggia",
-        "cities": []
-      },
-      {
-        "name": "Forlì-Cesena",
-        "cities": []
       },
       {
         "name": "Friuli–Venezia Giulia",
@@ -30788,38 +28175,6 @@
         ]
       },
       {
-        "name": "Frosinone",
-        "cities": []
-      },
-      {
-        "name": "Gorizia",
-        "cities": []
-      },
-      {
-        "name": "Grosseto",
-        "cities": []
-      },
-      {
-        "name": "Imperia",
-        "cities": []
-      },
-      {
-        "name": "Isernia",
-        "cities": []
-      },
-      {
-        "name": "L'Aquila",
-        "cities": []
-      },
-      {
-        "name": "La Spezia",
-        "cities": []
-      },
-      {
-        "name": "Latina",
-        "cities": []
-      },
-      {
         "name": "Lazio",
         "cities": [
           "Accumoli",
@@ -30873,14 +28228,6 @@
           "Belmonte Castello",
           "Belmonte in Sabina"
         ]
-      },
-      {
-        "name": "Lecce",
-        "cities": []
-      },
-      {
-        "name": "Lecco",
-        "cities": []
       },
       {
         "name": "Liguria",
@@ -30938,14 +28285,6 @@
         ]
       },
       {
-        "name": "Livorno",
-        "cities": []
-      },
-      {
-        "name": "Lodi",
-        "cities": []
-      },
-      {
         "name": "Lombardy",
         "cities": [
           "Abbadia Cerreto",
@@ -30999,18 +28338,6 @@
           "Appiano Gentile",
           "Aprica"
         ]
-      },
-      {
-        "name": "Lucca",
-        "cities": []
-      },
-      {
-        "name": "Macerata",
-        "cities": []
-      },
-      {
-        "name": "Mantua",
-        "cities": []
       },
       {
         "name": "Marche",
@@ -31068,22 +28395,6 @@
         ]
       },
       {
-        "name": "Massa and Carrara",
-        "cities": []
-      },
-      {
-        "name": "Matera",
-        "cities": []
-      },
-      {
-        "name": "Medio Campidano",
-        "cities": []
-      },
-      {
-        "name": "Modena",
-        "cities": []
-      },
-      {
         "name": "Molise",
         "cities": [
           "Acquaviva Collecroce",
@@ -31137,54 +28448,6 @@
           "Guardialfiera",
           "Guardiaregia"
         ]
-      },
-      {
-        "name": "Monza and Brianza",
-        "cities": []
-      },
-      {
-        "name": "Novara",
-        "cities": []
-      },
-      {
-        "name": "Nuoro",
-        "cities": []
-      },
-      {
-        "name": "Oristano",
-        "cities": []
-      },
-      {
-        "name": "Padua",
-        "cities": []
-      },
-      {
-        "name": "Palermo",
-        "cities": []
-      },
-      {
-        "name": "Parma",
-        "cities": []
-      },
-      {
-        "name": "Pavia",
-        "cities": []
-      },
-      {
-        "name": "Perugia",
-        "cities": []
-      },
-      {
-        "name": "Pesaro and Urbino",
-        "cities": []
-      },
-      {
-        "name": "Pescara",
-        "cities": []
-      },
-      {
-        "name": "Piacenza",
-        "cities": []
       },
       {
         "name": "Piedmont",
@@ -31242,30 +28505,6 @@
         ]
       },
       {
-        "name": "Pisa",
-        "cities": []
-      },
-      {
-        "name": "Pistoia",
-        "cities": []
-      },
-      {
-        "name": "Pordenone",
-        "cities": []
-      },
-      {
-        "name": "Potenza",
-        "cities": []
-      },
-      {
-        "name": "Prato",
-        "cities": []
-      },
-      {
-        "name": "Ragusa",
-        "cities": []
-      },
-      {
         "name": "Ravenna",
         "cities": [
           "Alfonsine",
@@ -31287,26 +28526,6 @@
           "Sant'Agata sul Santerno",
           "Solarolo"
         ]
-      },
-      {
-        "name": "Reggio Emilia",
-        "cities": []
-      },
-      {
-        "name": "Rieti",
-        "cities": []
-      },
-      {
-        "name": "Rimini",
-        "cities": []
-      },
-      {
-        "name": "Rovigo",
-        "cities": []
-      },
-      {
-        "name": "Salerno",
-        "cities": []
       },
       {
         "name": "Sardinia",
@@ -31364,14 +28583,6 @@
         ]
       },
       {
-        "name": "Sassari",
-        "cities": []
-      },
-      {
-        "name": "Savona",
-        "cities": []
-      },
-      {
         "name": "Sicily",
         "cities": [
           "Acate",
@@ -31425,38 +28636,6 @@
           "Brolo",
           "Bronte"
         ]
-      },
-      {
-        "name": "Siena",
-        "cities": []
-      },
-      {
-        "name": "Siracusa",
-        "cities": []
-      },
-      {
-        "name": "Sondrio",
-        "cities": []
-      },
-      {
-        "name": "South Sardinia",
-        "cities": []
-      },
-      {
-        "name": "Taranto",
-        "cities": []
-      },
-      {
-        "name": "Teramo",
-        "cities": []
-      },
-      {
-        "name": "Terni",
-        "cities": []
-      },
-      {
-        "name": "Trapani",
-        "cities": []
       },
       {
         "name": "Trentino-South Tyrol",
@@ -31514,14 +28693,6 @@
         ]
       },
       {
-        "name": "Treviso",
-        "cities": []
-      },
-      {
-        "name": "Trieste",
-        "cities": []
-      },
-      {
         "name": "Tuscany",
         "cities": [
           "Abbadia San Salvatore",
@@ -31575,10 +28746,6 @@
           "Campagnatico",
           "Campi Bisenzio"
         ]
-      },
-      {
-        "name": "Udine",
-        "cities": []
       },
       {
         "name": "Umbria",
@@ -31636,10 +28803,6 @@
         ]
       },
       {
-        "name": "Varese",
-        "cities": []
-      },
-      {
         "name": "Veneto",
         "cities": [
           "Abano Terme",
@@ -31693,30 +28856,6 @@
           "Barbarano Vicentino",
           "Barbisano"
         ]
-      },
-      {
-        "name": "Verbano-Cusio-Ossola",
-        "cities": []
-      },
-      {
-        "name": "Vercelli",
-        "cities": []
-      },
-      {
-        "name": "Verona",
-        "cities": []
-      },
-      {
-        "name": "Vibo Valentia",
-        "cities": []
-      },
-      {
-        "name": "Vicenza",
-        "cities": []
-      },
-      {
-        "name": "Viterbo",
-        "cities": []
       }
     ]
   },
@@ -34157,21 +31296,6 @@
     ]
   },
   {
-    "name": "Jersey",
-    "iso3": "JEY",
-    "iso2": "JE",
-    "phone_code": "+44-1534",
-    "capital": "Saint Helier",
-    "currency": "GBP",
-    "currency_symbol": "£",
-    "native": "Jersey",
-    "region": "Europe",
-    "nationalities": [
-      "Channel Island"
-    ],
-    "states": []
-  },
-  {
     "name": "Jordan",
     "iso3": "JOR",
     "iso2": "JO",
@@ -34739,10 +31863,6 @@
         ]
       },
       {
-        "name": "Elgeyo-Marakwet",
-        "cities": []
-      },
-      {
         "name": "Embu",
         "cities": [
           "Embu"
@@ -34992,10 +32112,6 @@
         ]
       },
       {
-        "name": "Taita–Taveta",
-        "cities": []
-      },
-      {
         "name": "Tana River",
         "cities": [
           "Hola",
@@ -35025,10 +32141,6 @@
         "cities": [
           "Eldoret"
         ]
-      },
-      {
-        "name": "Vihiga",
-        "cities": []
       },
       {
         "name": "Wajir",
@@ -35114,50 +32226,6 @@
         "cities": [
           "Kanton"
         ]
-      }
-    ]
-  },
-  {
-    "name": "Kosovo",
-    "iso3": "XKX",
-    "iso2": "XK",
-    "phone_code": "383",
-    "capital": "Pristina",
-    "currency": "EUR",
-    "currency_symbol": "€",
-    "native": "Republika e Kosovës",
-    "region": "Europe",
-    "nationalities": [
-      "Kosovar, Kosovan"
-    ],
-    "states": [
-      {
-        "name": "Đakovica District (Gjakove)",
-        "cities": []
-      },
-      {
-        "name": "Gjilan District",
-        "cities": []
-      },
-      {
-        "name": "Kosovska Mitrovica District",
-        "cities": []
-      },
-      {
-        "name": "Peć District",
-        "cities": []
-      },
-      {
-        "name": "Pristina (Priştine)",
-        "cities": []
-      },
-      {
-        "name": "Prizren District",
-        "cities": []
-      },
-      {
-        "name": "Uroševac District (Ferizaj)",
-        "cities": []
       }
     ]
   },
@@ -35316,10 +32384,6 @@
           "Jumgal",
           "Naryn"
         ]
-      },
-      {
-        "name": "Osh",
-        "cities": []
       },
       {
         "name": "Osh Region",
@@ -35511,10 +32575,6 @@
         ]
       },
       {
-        "name": "Xaisomboun",
-        "cities": []
-      },
-      {
         "name": "Xaisomboun Province",
         "cities": [
           "Anouvong district",
@@ -35589,10 +32649,6 @@
         ]
       },
       {
-        "name": "Amata Municipality",
-        "cities": []
-      },
-      {
         "name": "Ape Municipality",
         "cities": [
           "Ape"
@@ -35647,10 +32703,6 @@
         ]
       },
       {
-        "name": "Burtnieki Municipality",
-        "cities": []
-      },
-      {
         "name": "Carnikava Municipality",
         "cities": [
           "Carnikava"
@@ -35679,10 +32731,6 @@
         "cities": [
           "Dagda"
         ]
-      },
-      {
-        "name": "Daugavpils",
-        "cities": []
       },
       {
         "name": "Daugavpils Municipality",
@@ -35770,18 +32818,10 @@
         ]
       },
       {
-        "name": "Jaunpiebalga Municipality",
-        "cities": []
-      },
-      {
         "name": "Jaunpils Municipality",
         "cities": [
           "Jaunpils"
         ]
-      },
-      {
-        "name": "Jēkabpils",
-        "cities": []
       },
       {
         "name": "Jēkabpils Municipality",
@@ -35850,14 +32890,6 @@
         "cities": [
           "Krāslava"
         ]
-      },
-      {
-        "name": "Krimulda Municipality",
-        "cities": []
-      },
-      {
-        "name": "Krustpils Municipality",
-        "cities": []
       },
       {
         "name": "Kuldīga Municipality",
@@ -35931,10 +32963,6 @@
         "cities": [
           "Mazsalaca"
         ]
-      },
-      {
-        "name": "Mērsrags Municipality",
-        "cities": []
       },
       {
         "name": "Naukšēni Municipality",
@@ -36023,10 +33051,6 @@
         ]
       },
       {
-        "name": "Rēzekne Municipality",
-        "cities": []
-      },
-      {
         "name": "Riebiņi Municipality",
         "cities": [
           "Riebiņi"
@@ -36077,10 +33101,6 @@
         "cities": [
           "Pilsrundāle"
         ]
-      },
-      {
-        "name": "Sala Municipality",
-        "cities": []
       },
       {
         "name": "Salacgrīva Municipality",
@@ -36166,10 +33186,6 @@
           "Tērvete",
           "Zelmeņi"
         ]
-      },
-      {
-        "name": "Tukums Municipality",
-        "cities": []
       },
       {
         "name": "Vaiņode Municipality",
@@ -36789,10 +33805,6 @@
     ],
     "states": [
       {
-        "name": "Akmenė District Municipality",
-        "cities": []
-      },
-      {
         "name": "Alytus City Municipality",
         "cities": [
           "Alytus",
@@ -36803,54 +33815,6 @@
           "Varėna",
           "Veisiejai"
         ]
-      },
-      {
-        "name": "Alytus County",
-        "cities": []
-      },
-      {
-        "name": "Alytus District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Birštonas Municipality",
-        "cities": []
-      },
-      {
-        "name": "Biržai District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Druskininkai municipality",
-        "cities": []
-      },
-      {
-        "name": "Elektrėnai municipality",
-        "cities": []
-      },
-      {
-        "name": "Ignalina District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Jonava District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Joniškis District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Jurbarkas District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Kaišiadorys District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Kalvarija municipality",
-        "cities": []
       },
       {
         "name": "Kaunas City Municipality",
@@ -36881,34 +33845,6 @@
         ]
       },
       {
-        "name": "Kaunas County",
-        "cities": []
-      },
-      {
-        "name": "Kaunas District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Kazlų Rūda municipality",
-        "cities": []
-      },
-      {
-        "name": "Kėdainiai District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Kelmė District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Klaipeda City Municipality",
-        "cities": []
-      },
-      {
-        "name": "Klaipėda County",
-        "cities": []
-      },
-      {
         "name": "Klaipėda District Municipality",
         "cities": [
           "Gargždai",
@@ -36925,22 +33861,6 @@
           "Šventoji",
           "Žemaičių Naumiestis"
         ]
-      },
-      {
-        "name": "Kretinga District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Kupiškis District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Lazdijai District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Marijampolė County",
-        "cities": []
       },
       {
         "name": "Marijampolė Municipality",
@@ -36961,38 +33881,6 @@
         ]
       },
       {
-        "name": "Mažeikiai District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Molėtai District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Neringa Municipality",
-        "cities": []
-      },
-      {
-        "name": "Pagėgiai municipality",
-        "cities": []
-      },
-      {
-        "name": "Pakruojis District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Palanga City Municipality",
-        "cities": []
-      },
-      {
-        "name": "Panevėžys City Municipality",
-        "cities": []
-      },
-      {
-        "name": "Panevėžys County",
-        "cities": []
-      },
-      {
         "name": "Panevėžys District Municipality",
         "cities": [
           "Birzai",
@@ -37007,42 +33895,6 @@
           "Rokiškis",
           "Vabalninkas"
         ]
-      },
-      {
-        "name": "Pasvalys District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Plungė District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Prienai District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Radviliškis District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Raseiniai District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Rietavas municipality",
-        "cities": []
-      },
-      {
-        "name": "Rokiškis District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Šakiai District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Šalčininkai District Municipality",
-        "cities": []
       },
       {
         "name": "Šiauliai City Municipality",
@@ -37063,34 +33915,6 @@
         ]
       },
       {
-        "name": "Šiauliai County",
-        "cities": []
-      },
-      {
-        "name": "Šiauliai District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Šilalė District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Šilutė District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Širvintos District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Skuodas District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Švenčionys District Municipality",
-        "cities": []
-      },
-      {
         "name": "Tauragė County",
         "cities": [
           "Būgai",
@@ -37099,14 +33923,6 @@
           "Šilalė",
           "Taurage"
         ]
-      },
-      {
-        "name": "Tauragė District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Telšiai County",
-        "cities": []
       },
       {
         "name": "Telšiai District Municipality",
@@ -37122,14 +33938,6 @@
         ]
       },
       {
-        "name": "Trakai District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Ukmergė District Municipality",
-        "cities": []
-      },
-      {
         "name": "Utena County",
         "cities": [
           "Anyksciai",
@@ -37140,18 +33948,6 @@
           "Visaginas",
           "Zarasai"
         ]
-      },
-      {
-        "name": "Utena District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Varėna District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Vilkaviškis District Municipality",
-        "cities": []
       },
       {
         "name": "Vilnius City Municipality",
@@ -37186,22 +33982,6 @@
           "Vilnius",
           "Vilnius District Municipality"
         ]
-      },
-      {
-        "name": "Vilnius County",
-        "cities": []
-      },
-      {
-        "name": "Vilnius District Municipality",
-        "cities": []
-      },
-      {
-        "name": "Visaginas Municipality",
-        "cities": []
-      },
-      {
-        "name": "Zarasai District Municipality",
-        "cities": []
       }
     ]
   },
@@ -37422,35 +34202,8 @@
           "Wilwerwiltz",
           "Winseler"
         ]
-      },
-      {
-        "name": "Diekirch District",
-        "cities": []
-      },
-      {
-        "name": "Grevenmacher District",
-        "cities": []
-      },
-      {
-        "name": "Luxembourg District",
-        "cities": []
       }
     ]
-  },
-  {
-    "name": "Macau S.A.R.",
-    "iso3": "MAC",
-    "iso2": "MO",
-    "phone_code": "853",
-    "capital": "Macao",
-    "currency": "MOP",
-    "currency_symbol": "$",
-    "native": "澳門",
-    "region": "Asia",
-    "nationalities": [
-      "Macanese, Chinese"
-    ],
-    "states": []
   },
   {
     "name": "Madagascar",
@@ -37467,10 +34220,6 @@
     ],
     "states": [
       {
-        "name": "Antananarivo Province",
-        "cities": []
-      },
-      {
         "name": "Antsiranana Province",
         "cities": [
           "Ampasimanolotra",
@@ -37483,22 +34232,6 @@
           "Toamasina II",
           "Vohibinany"
         ]
-      },
-      {
-        "name": "Fianarantsoa Province",
-        "cities": []
-      },
-      {
-        "name": "Mahajanga Province",
-        "cities": []
-      },
-      {
-        "name": "Toamasina Province",
-        "cities": []
-      },
-      {
-        "name": "Toliara Province",
-        "cities": []
       }
     ]
   },
@@ -37516,14 +34249,6 @@
       "Malawian"
     ],
     "states": [
-      {
-        "name": "Balaka District",
-        "cities": []
-      },
-      {
-        "name": "Blantyre District",
-        "cities": []
-      },
       {
         "name": "Central Region",
         "cities": [
@@ -37550,74 +34275,6 @@
         ]
       },
       {
-        "name": "Chikwawa District",
-        "cities": []
-      },
-      {
-        "name": "Chiradzulu District",
-        "cities": []
-      },
-      {
-        "name": "Chitipa district",
-        "cities": []
-      },
-      {
-        "name": "Dedza District",
-        "cities": []
-      },
-      {
-        "name": "Dowa District",
-        "cities": []
-      },
-      {
-        "name": "Karonga District",
-        "cities": []
-      },
-      {
-        "name": "Kasungu District",
-        "cities": []
-      },
-      {
-        "name": "Likoma District",
-        "cities": []
-      },
-      {
-        "name": "Lilongwe District",
-        "cities": []
-      },
-      {
-        "name": "Machinga District",
-        "cities": []
-      },
-      {
-        "name": "Mangochi District",
-        "cities": []
-      },
-      {
-        "name": "Mchinji District",
-        "cities": []
-      },
-      {
-        "name": "Mulanje District",
-        "cities": []
-      },
-      {
-        "name": "Mwanza District",
-        "cities": []
-      },
-      {
-        "name": "Mzimba District",
-        "cities": []
-      },
-      {
-        "name": "Nkhata Bay District",
-        "cities": []
-      },
-      {
-        "name": "Nkhotakota District",
-        "cities": []
-      },
-      {
         "name": "Northern Region",
         "cities": [
           "Chitipa",
@@ -37634,30 +34291,6 @@
           "Rumphi",
           "Rumphi District"
         ]
-      },
-      {
-        "name": "Nsanje District",
-        "cities": []
-      },
-      {
-        "name": "Ntcheu District",
-        "cities": []
-      },
-      {
-        "name": "Ntchisi District",
-        "cities": []
-      },
-      {
-        "name": "Phalombe District",
-        "cities": []
-      },
-      {
-        "name": "Rumphi District",
-        "cities": []
-      },
-      {
-        "name": "Salima District",
-        "cities": []
       },
       {
         "name": "Southern Region",
@@ -37691,14 +34324,6 @@
           "Zomba",
           "Zomba District"
         ]
-      },
-      {
-        "name": "Thyolo District",
-        "cities": []
-      },
-      {
-        "name": "Zomba District",
-        "cities": []
       }
     ]
   },
@@ -38000,26 +34625,10 @@
         ]
       },
       {
-        "name": "Alif Alif Atoll",
-        "cities": []
-      },
-      {
-        "name": "Alif Dhaal Atoll",
-        "cities": []
-      },
-      {
-        "name": "Central Province",
-        "cities": []
-      },
-      {
         "name": "Dhaalu Atoll",
         "cities": [
           "Kudahuvadhoo"
         ]
-      },
-      {
-        "name": "Faafu Atoll",
-        "cities": []
       },
       {
         "name": "Gaafu Alif Atoll",
@@ -38073,10 +34682,6 @@
         ]
       },
       {
-        "name": "Malé",
-        "cities": []
-      },
-      {
         "name": "Meemu Atoll",
         "cities": [
           "Muli"
@@ -38087,14 +34692,6 @@
         "cities": [
           "Manadhoo"
         ]
-      },
-      {
-        "name": "North Central Province",
-        "cities": []
-      },
-      {
-        "name": "North Province",
-        "cities": []
       },
       {
         "name": "Raa Atoll",
@@ -38115,18 +34712,10 @@
         ]
       },
       {
-        "name": "South Province",
-        "cities": []
-      },
-      {
         "name": "Thaa Atoll",
         "cities": [
           "Veymandoo"
         ]
-      },
-      {
-        "name": "Upper South Province",
-        "cities": []
       },
       {
         "name": "Vaavu Atoll",
@@ -38195,10 +34784,6 @@
         ]
       },
       {
-        "name": "Ménaka Region",
-        "cities": []
-      },
-      {
         "name": "Mopti Region",
         "cities": [
           "Bandiagara",
@@ -38233,10 +34818,6 @@
           "Sikasso",
           "Yorosso"
         ]
-      },
-      {
-        "name": "Taoudénit Region",
-        "cities": []
       },
       {
         "name": "Tombouctou Region",
@@ -38334,10 +34915,6 @@
         ]
       },
       {
-        "name": "Għarb",
-        "cities": []
-      },
-      {
         "name": "Għargħur",
         "cities": [
           "Għaxaq"
@@ -38354,10 +34931,6 @@
         "cities": [
           "Gżira"
         ]
-      },
-      {
-        "name": "Gudja",
-        "cities": []
       },
       {
         "name": "Gżira",
@@ -38431,36 +35004,16 @@
         ]
       },
       {
-        "name": "Mdina",
-        "cities": []
-      },
-      {
-        "name": "Mellieħa",
-        "cities": []
-      },
-      {
         "name": "Mġarr",
         "cities": [
           "Marsa"
         ]
       },
       {
-        "name": "Mosta",
-        "cities": []
-      },
-      {
-        "name": "Mqabba",
-        "cities": []
-      },
-      {
         "name": "Msida",
         "cities": [
           "Mellieħa"
         ]
-      },
-      {
-        "name": "Mtarfa",
-        "cities": []
       },
       {
         "name": "Munxar",
@@ -38517,10 +35070,6 @@
         ]
       },
       {
-        "name": "Rabat",
-        "cities": []
-      },
-      {
         "name": "Saint Lawrence",
         "cities": [
           "San Lawrenz"
@@ -38544,10 +35093,6 @@
         "cities": [
           "Santa Venera"
         ]
-      },
-      {
-        "name": "Santa Venera",
-        "cities": []
       },
       {
         "name": "Senglea",
@@ -38663,60 +35208,6 @@
     ]
   },
   {
-    "name": "Isle of Man",
-    "iso3": "IMN",
-    "iso2": "IM",
-    "phone_code": "+44-1624",
-    "capital": "Douglas, Isle of Man",
-    "currency": "GBP",
-    "currency_symbol": "£",
-    "native": "Isle of Man",
-    "region": "Europe",
-    "nationalities": [
-      "Manx"
-    ],
-    "states": []
-  },
-  {
-    "name": "Marshall Islands",
-    "iso3": "MHL",
-    "iso2": "MH",
-    "phone_code": "692",
-    "capital": "Majuro",
-    "currency": "USD",
-    "currency_symbol": "$",
-    "native": "M̧ajeļ",
-    "region": "Oceania",
-    "nationalities": [
-      "Marshallese"
-    ],
-    "states": [
-      {
-        "name": "Ralik Chain",
-        "cities": []
-      },
-      {
-        "name": "Ratak Chain",
-        "cities": []
-      }
-    ]
-  },
-  {
-    "name": "Martinique",
-    "iso3": "MTQ",
-    "iso2": "MQ",
-    "phone_code": "596",
-    "capital": "Fort-de-France",
-    "currency": "EUR",
-    "currency_symbol": "€",
-    "native": "Martinique",
-    "region": "Americas",
-    "nationalities": [
-      "Martiniquais, Martinican"
-    ],
-    "states": []
-  },
-  {
     "name": "Mauritania",
     "iso3": "MRT",
     "iso2": "MR",
@@ -38820,10 +35311,6 @@
           "Arafat",
           "Riyad"
         ]
-      },
-      {
-        "name": "Tagant",
-        "cities": []
       },
       {
         "name": "Tiris Zemmour",
@@ -39092,21 +35579,6 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Mayotte",
-    "iso3": "MYT",
-    "iso2": "YT",
-    "phone_code": "262",
-    "capital": "Mamoudzou",
-    "currency": "EUR",
-    "currency_symbol": "€",
-    "native": "Mayotte",
-    "region": "Africa",
-    "nationalities": [
-      "Mahoran"
-    ],
-    "states": []
   },
   {
     "name": "Mexico",
@@ -41223,34 +37695,6 @@
     ]
   },
   {
-    "name": "Monaco",
-    "iso3": "MCO",
-    "iso2": "MC",
-    "phone_code": "377",
-    "capital": "Monaco",
-    "currency": "EUR",
-    "currency_symbol": "€",
-    "native": "Monaco",
-    "region": "Europe",
-    "nationalities": [
-      "Monegasque, Monacan"
-    ],
-    "states": [
-      {
-        "name": "La Colle",
-        "cities": []
-      },
-      {
-        "name": "La Condamine",
-        "cities": []
-      },
-      {
-        "name": "Moneghetti",
-        "cities": []
-      }
-    ]
-  },
-  {
     "name": "Mongolia",
     "iso3": "MNG",
     "iso2": "MN",
@@ -41302,10 +37746,6 @@
           "Choibalsan",
           "Ereencav"
         ]
-      },
-      {
-        "name": "Dornogovi Province",
-        "cities": []
       },
       {
         "name": "Dundgovi Province",
@@ -41503,10 +37943,6 @@
         ]
       },
       {
-        "name": "Petnjica Municipality",
-        "cities": []
-      },
-      {
         "name": "Plav Municipality",
         "cities": [
           "Plav"
@@ -41568,21 +38004,6 @@
     ]
   },
   {
-    "name": "Montserrat",
-    "iso3": "MSR",
-    "iso2": "MS",
-    "phone_code": "+1-664",
-    "capital": "Plymouth",
-    "currency": "XCD",
-    "currency_symbol": "$",
-    "native": "Montserrat",
-    "region": "Americas",
-    "nationalities": [
-      "Montserratian"
-    ],
-    "states": []
-  },
-  {
     "name": "Morocco",
     "iso3": "MAR",
     "iso2": "MA",
@@ -41596,22 +38017,6 @@
       "Moroccan"
     ],
     "states": [
-      {
-        "name": "Agadir-Ida-Ou-Tanane",
-        "cities": []
-      },
-      {
-        "name": "Al Haouz",
-        "cities": []
-      },
-      {
-        "name": "Al Hoceïma",
-        "cities": []
-      },
-      {
-        "name": "Aousserd (EH)",
-        "cities": []
-      },
       {
         "name": "Assa-Zag (EH-partial)",
         "cities": [
@@ -41644,42 +38049,6 @@
         ]
       },
       {
-        "name": "Azilal",
-        "cities": []
-      },
-      {
-        "name": "Béni Mellal",
-        "cities": []
-      },
-      {
-        "name": "Béni Mellal-Khénifra",
-        "cities": []
-      },
-      {
-        "name": "Benslimane",
-        "cities": []
-      },
-      {
-        "name": "Berkane",
-        "cities": []
-      },
-      {
-        "name": "Berrechid",
-        "cities": []
-      },
-      {
-        "name": "Boujdour (EH)",
-        "cities": []
-      },
-      {
-        "name": "Boulemane",
-        "cities": []
-      },
-      {
-        "name": "Casablanca",
-        "cities": []
-      },
-      {
         "name": "Casablanca-Settat",
         "cities": [
           "Azemmour",
@@ -41706,22 +38075,6 @@
         ]
       },
       {
-        "name": "Chefchaouen",
-        "cities": []
-      },
-      {
-        "name": "Chichaoua",
-        "cities": []
-      },
-      {
-        "name": "Chtouka-Ait Baha",
-        "cities": []
-      },
-      {
-        "name": "Dakhla-Oued Ed-Dahab (EH)",
-        "cities": []
-      },
-      {
         "name": "Drâa-Tafilalet",
         "cities": [
           "Agdz",
@@ -41744,42 +38097,6 @@
           "Tinghir Province",
           "Zagora"
         ]
-      },
-      {
-        "name": "Driouch",
-        "cities": []
-      },
-      {
-        "name": "El Hajeb",
-        "cities": []
-      },
-      {
-        "name": "El Jadida",
-        "cities": []
-      },
-      {
-        "name": "El Kelâa des Sraghna",
-        "cities": []
-      },
-      {
-        "name": "Errachidia",
-        "cities": []
-      },
-      {
-        "name": "Es-Semara (EH-partial)",
-        "cities": []
-      },
-      {
-        "name": "Essaouira",
-        "cities": []
-      },
-      {
-        "name": "Fahs-Anjra",
-        "cities": []
-      },
-      {
-        "name": "Fès",
-        "cities": []
       },
       {
         "name": "Fès-Meknès",
@@ -41815,18 +38132,6 @@
         ]
       },
       {
-        "name": "Figuig",
-        "cities": []
-      },
-      {
-        "name": "Fquih Ben Salah",
-        "cities": []
-      },
-      {
-        "name": "Guelmim",
-        "cities": []
-      },
-      {
         "name": "Guelmim-Oued Noun (EH-partial)",
         "cities": [
           "Assa-Zag",
@@ -41834,22 +38139,6 @@
           "Sidi Ifni",
           "Tan-Tan"
         ]
-      },
-      {
-        "name": "Guercif",
-        "cities": []
-      },
-      {
-        "name": "Ifrane",
-        "cities": []
-      },
-      {
-        "name": "Inezgane-Ait Melloul",
-        "cities": []
-      },
-      {
-        "name": "Jerada",
-        "cities": []
       },
       {
         "name": "Kénitra",
@@ -41876,10 +38165,6 @@
           "Teroual",
           "Tiflet"
         ]
-      },
-      {
-        "name": "Khémisset",
-        "cities": []
       },
       {
         "name": "Khénifra",
@@ -41913,10 +38198,6 @@
         ]
       },
       {
-        "name": "Khouribga",
-        "cities": []
-      },
-      {
         "name": "L'Oriental",
         "cities": [
           "Ahfir",
@@ -41942,10 +38223,6 @@
         ]
       },
       {
-        "name": "Laâyoune (EH)",
-        "cities": []
-      },
-      {
         "name": "Laâyoune-Sakia El Hamra (EH-partial)",
         "cities": [
           "Akhfennir",
@@ -41958,80 +38235,12 @@
         ]
       },
       {
-        "name": "Larache",
-        "cities": []
-      },
-      {
-        "name": "M’diq-Fnideq",
-        "cities": []
-      },
-      {
-        "name": "Marrakech",
-        "cities": []
-      },
-      {
-        "name": "Marrakesh-Safi",
-        "cities": []
-      },
-      {
-        "name": "Médiouna",
-        "cities": []
-      },
-      {
-        "name": "Meknès",
-        "cities": []
-      },
-      {
-        "name": "Midelt",
-        "cities": []
-      },
-      {
-        "name": "Mohammadia",
-        "cities": []
-      },
-      {
-        "name": "Moulay Yacoub",
-        "cities": []
-      },
-      {
-        "name": "Nador",
-        "cities": []
-      },
-      {
-        "name": "Nouaceur",
-        "cities": []
-      },
-      {
-        "name": "Ouarzazate",
-        "cities": []
-      },
-      {
         "name": "Oued Ed-Dahab (EH)",
         "cities": [
           "Aousserd",
           "Imlili",
           "Oued-Ed-Dahab"
         ]
-      },
-      {
-        "name": "Ouezzane",
-        "cities": []
-      },
-      {
-        "name": "Oujda-Angad",
-        "cities": []
-      },
-      {
-        "name": "Rabat",
-        "cities": []
-      },
-      {
-        "name": "Rabat-Salé-Kénitra",
-        "cities": []
-      },
-      {
-        "name": "Rehamna",
-        "cities": []
       },
       {
         "name": "Safi",
@@ -42058,50 +38267,6 @@
           "Youssoufia",
           "Zerkten"
         ]
-      },
-      {
-        "name": "Salé",
-        "cities": []
-      },
-      {
-        "name": "Sefrou",
-        "cities": []
-      },
-      {
-        "name": "Settat",
-        "cities": []
-      },
-      {
-        "name": "Sidi Bennour",
-        "cities": []
-      },
-      {
-        "name": "Sidi Ifni",
-        "cities": []
-      },
-      {
-        "name": "Sidi Kacem",
-        "cities": []
-      },
-      {
-        "name": "Sidi Slimane",
-        "cities": []
-      },
-      {
-        "name": "Skhirate-Témara",
-        "cities": []
-      },
-      {
-        "name": "Souss-Massa",
-        "cities": []
-      },
-      {
-        "name": "Tan-Tan (EH-partial)",
-        "cities": []
-      },
-      {
-        "name": "Tanger-Assilah",
-        "cities": []
       },
       {
         "name": "Tanger-Tétouan-Al Hoceïma",
@@ -42135,50 +38300,6 @@
           "Zinat",
           "Zoumi"
         ]
-      },
-      {
-        "name": "Taounate",
-        "cities": []
-      },
-      {
-        "name": "Taourirt",
-        "cities": []
-      },
-      {
-        "name": "Tarfaya (EH-partial)",
-        "cities": []
-      },
-      {
-        "name": "Taroudannt",
-        "cities": []
-      },
-      {
-        "name": "Tata",
-        "cities": []
-      },
-      {
-        "name": "Taza",
-        "cities": []
-      },
-      {
-        "name": "Tétouan",
-        "cities": []
-      },
-      {
-        "name": "Tinghir",
-        "cities": []
-      },
-      {
-        "name": "Tiznit",
-        "cities": []
-      },
-      {
-        "name": "Youssoufia",
-        "cities": []
-      },
-      {
-        "name": "Zagora",
-        "cities": []
       }
     ]
   },
@@ -42513,10 +38634,6 @@
         ]
       },
       {
-        "name": "Kavango West Region",
-        "cities": []
-      },
-      {
         "name": "Khomas Region",
         "cities": [
           "Katutura",
@@ -42616,34 +38733,10 @@
         ]
       },
       {
-        "name": "Anetan District",
-        "cities": []
-      },
-      {
-        "name": "Anibare District",
-        "cities": []
-      },
-      {
         "name": "Baiti District",
         "cities": [
           "Baiti"
         ]
-      },
-      {
-        "name": "Boe District",
-        "cities": []
-      },
-      {
-        "name": "Buada District",
-        "cities": []
-      },
-      {
-        "name": "Denigomodu District",
-        "cities": []
-      },
-      {
-        "name": "Ewa District",
-        "cities": []
       },
       {
         "name": "Ijuw District",
@@ -42656,10 +38749,6 @@
         "cities": [
           "Menen"
         ]
-      },
-      {
-        "name": "Nibok District",
-        "cities": []
       },
       {
         "name": "Uaboe District",
@@ -42690,14 +38779,6 @@
     ],
     "states": [
       {
-        "name": "Bagmati Zone",
-        "cities": []
-      },
-      {
-        "name": "Bheri Zone",
-        "cities": []
-      },
-      {
         "name": "Central Region",
         "cities": [
           "Banepā",
@@ -42719,10 +38800,6 @@
           "Pātan",
           "Rāmechhāp"
         ]
-      },
-      {
-        "name": "Dhaulagiri Zone",
-        "cities": []
       },
       {
         "name": "Eastern Development Region",
@@ -42755,34 +38832,6 @@
         ]
       },
       {
-        "name": "Gandaki Zone",
-        "cities": []
-      },
-      {
-        "name": "Janakpur Zone",
-        "cities": []
-      },
-      {
-        "name": "Karnali Zone",
-        "cities": []
-      },
-      {
-        "name": "Kosi Zone",
-        "cities": []
-      },
-      {
-        "name": "Lumbini Zone",
-        "cities": []
-      },
-      {
-        "name": "Mahakali Zone",
-        "cities": []
-      },
-      {
-        "name": "Mechi Zone",
-        "cities": []
-      },
-      {
         "name": "Mid-Western Region",
         "cities": [
           "Bhojpur",
@@ -42793,22 +38842,6 @@
           "Nepalgunj",
           "Tulsīpur"
         ]
-      },
-      {
-        "name": "Narayani Zone",
-        "cities": []
-      },
-      {
-        "name": "Rapti Zone",
-        "cities": []
-      },
-      {
-        "name": "Sagarmatha Zone",
-        "cities": []
-      },
-      {
-        "name": "Seti Zone",
-        "cities": []
       },
       {
         "name": "Western Region",
@@ -43306,14 +39339,6 @@
           "Sint Jansklooster",
           "Staphorst"
         ]
-      },
-      {
-        "name": "Saba",
-        "cities": []
-      },
-      {
-        "name": "Sint Eustatius",
-        "cities": []
       },
       {
         "name": "South Holland",
@@ -44797,36 +40822,6 @@
     ]
   },
   {
-    "name": "Niue",
-    "iso3": "NIU",
-    "iso2": "NU",
-    "phone_code": "683",
-    "capital": "Alofi",
-    "currency": "NZD",
-    "currency_symbol": "$",
-    "native": "Niuē",
-    "region": "Oceania",
-    "nationalities": [
-      "Niuean"
-    ],
-    "states": []
-  },
-  {
-    "name": "Norfolk Island",
-    "iso3": "NFK",
-    "iso2": "NF",
-    "phone_code": "672",
-    "capital": "Kingston",
-    "currency": "AUD",
-    "currency_symbol": "$",
-    "native": "Norfolk Island",
-    "region": "Oceania",
-    "nationalities": [
-      "Norfolk Island"
-    ],
-    "states": []
-  },
-  {
     "name": "North Korea",
     "iso3": "PRK",
     "iso2": "KP",
@@ -44992,10 +40987,6 @@
     ],
     "states": [
       {
-        "name": "Aerodrom Municipality",
-        "cities": []
-      },
-      {
         "name": "Aračinovo Municipality",
         "cities": [
           "Арачиново"
@@ -45075,10 +41066,6 @@
         ]
       },
       {
-        "name": "Centar Municipality",
-        "cities": []
-      },
-      {
         "name": "Centar Župa Municipality",
         "cities": [
           "Centar Župa"
@@ -45139,10 +41126,6 @@
           "Lažani",
           "Žitoše"
         ]
-      },
-      {
-        "name": "Drugovo Municipality",
-        "cities": []
       },
       {
         "name": "Gazi Baba Municipality",
@@ -45367,10 +41350,6 @@
         ]
       },
       {
-        "name": "Oslomej Municipality",
-        "cities": []
-      },
-      {
         "name": "Pehčevo Municipality",
         "cities": [
           "Pehčevo"
@@ -45565,20 +41544,12 @@
         ]
       },
       {
-        "name": "Vraneštica Municipality",
-        "cities": []
-      },
-      {
         "name": "Vrapčište Municipality",
         "cities": [
           "Dobri Dol",
           "Negotino",
           "Vrapčište"
         ]
-      },
-      {
-        "name": "Zajas Municipality",
-        "cities": []
       },
       {
         "name": "Zelenikovo Municipality",
@@ -45603,21 +41574,6 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Northern Mariana Islands",
-    "iso3": "MNP",
-    "iso2": "MP",
-    "phone_code": "+1-670",
-    "capital": "Saipan",
-    "currency": "USD",
-    "currency_symbol": "$",
-    "native": "Northern Mariana Islands",
-    "region": "Oceania",
-    "nationalities": [
-      "Northern Marianan"
-    ],
-    "states": []
   },
   {
     "name": "Norway",
@@ -45717,10 +41673,6 @@
           "Ringebu",
           "Ringsaker"
         ]
-      },
-      {
-        "name": "Jan Mayen",
-        "cities": []
       },
       {
         "name": "Møre og Romsdal",
@@ -45892,10 +41844,6 @@
           "Vindafjord",
           "Vormedal"
         ]
-      },
-      {
-        "name": "Svalbard",
-        "cities": []
       },
       {
         "name": "Troms og Finnmark",
@@ -46223,10 +42171,6 @@
         ]
       },
       {
-        "name": "Al Batinah South",
-        "cities": []
-      },
-      {
         "name": "Al Buraimi",
         "cities": [
           "Al Buraymī"
@@ -46239,18 +42183,10 @@
         ]
       },
       {
-        "name": "Ash Sharqiyah North",
-        "cities": []
-      },
-      {
         "name": "Ash Sharqiyah Region",
         "cities": [
           "Sur"
         ]
-      },
-      {
-        "name": "Ash Sharqiyah South",
-        "cities": []
       },
       {
         "name": "Dhofar",
@@ -46626,10 +42562,6 @@
         ]
       },
       {
-        "name": "Ngatpang",
-        "cities": []
-      },
-      {
         "name": "Ngchesar",
         "cities": [
           "Ngchesar Hamlet"
@@ -46658,86 +42590,6 @@
         "cities": [
           "Sonsorol Village"
         ]
-      }
-    ]
-  },
-  {
-    "name": "Palestinian Territory Occupied",
-    "iso3": "PSE",
-    "iso2": "PS",
-    "phone_code": "970",
-    "capital": "East Jerusalem",
-    "currency": "ILS",
-    "currency_symbol": "₪",
-    "native": "فلسطين",
-    "region": "Asia",
-    "nationalities": [
-      "Palestinian"
-    ],
-    "states": [
-      {
-        "name": "Bethlehem",
-        "cities": []
-      },
-      {
-        "name": "Deir El Balah",
-        "cities": []
-      },
-      {
-        "name": "Gaza",
-        "cities": []
-      },
-      {
-        "name": "Hebron",
-        "cities": []
-      },
-      {
-        "name": "Jenin",
-        "cities": []
-      },
-      {
-        "name": "Jericho and Al Aghwar",
-        "cities": []
-      },
-      {
-        "name": "Jerusalem",
-        "cities": []
-      },
-      {
-        "name": "Khan Yunis",
-        "cities": []
-      },
-      {
-        "name": "Nablus",
-        "cities": []
-      },
-      {
-        "name": "North Gaza",
-        "cities": []
-      },
-      {
-        "name": "Qalqilya",
-        "cities": []
-      },
-      {
-        "name": "Rafah",
-        "cities": []
-      },
-      {
-        "name": "Ramallah",
-        "cities": []
-      },
-      {
-        "name": "Salfit",
-        "cities": []
-      },
-      {
-        "name": "Tubas",
-        "cities": []
-      },
-      {
-        "name": "Tulkarm",
-        "cities": []
       }
     ]
   },
@@ -47553,10 +43405,6 @@
           "Capitán Bado",
           "Pedro Juan Caballero"
         ]
-      },
-      {
-        "name": "Asuncion",
-        "cities": []
       },
       {
         "name": "Boquerón Department",
@@ -48556,10 +44404,6 @@
         ]
       },
       {
-        "name": "Aklan",
-        "cities": []
-      },
-      {
         "name": "Albay",
         "cities": [
           "Aanislag",
@@ -48670,14 +44514,6 @@
         ]
       },
       {
-        "name": "Apayao",
-        "cities": []
-      },
-      {
-        "name": "Aurora",
-        "cities": []
-      },
-      {
         "name": "Autonomous Region in Muslim Mindanao",
         "cities": [
           "Ampatuan",
@@ -48731,10 +44567,6 @@
           "Damabalas",
           "Damatulan"
         ]
-      },
-      {
-        "name": "Basilan",
-        "cities": []
       },
       {
         "name": "Bataan",
@@ -48847,10 +44679,6 @@
         ]
       },
       {
-        "name": "Batangas",
-        "cities": []
-      },
-      {
         "name": "Benguet",
         "cities": [
           "Adtugan",
@@ -48904,14 +44732,6 @@
           "Dagumba-an",
           "Dalipuga"
         ]
-      },
-      {
-        "name": "Bicol",
-        "cities": []
-      },
-      {
-        "name": "Biliran",
-        "cities": []
       },
       {
         "name": "Bohol",
@@ -49189,10 +45009,6 @@
         ]
       },
       {
-        "name": "Calabarzon",
-        "cities": []
-      },
-      {
         "name": "Camarines Norte",
         "cities": [
           "Ambuclao",
@@ -49246,18 +45062,6 @@
           "La Paz",
           "La Trinidad"
         ]
-      },
-      {
-        "name": "Camarines Sur",
-        "cities": []
-      },
-      {
-        "name": "Camiguin",
-        "cities": []
-      },
-      {
-        "name": "Capiz",
-        "cities": []
       },
       {
         "name": "Caraga",
@@ -49315,18 +45119,6 @@
         ]
       },
       {
-        "name": "Catanduanes",
-        "cities": []
-      },
-      {
-        "name": "Cavite",
-        "cities": []
-      },
-      {
-        "name": "Cebu",
-        "cities": []
-      },
-      {
         "name": "Central Luzon",
         "cities": [
           "Abucay",
@@ -49380,14 +45172,6 @@
           "Baquero Norte",
           "Batasan Bata"
         ]
-      },
-      {
-        "name": "Central Visayas",
-        "cities": []
-      },
-      {
-        "name": "Compostela Valley",
-        "cities": []
       },
       {
         "name": "Cordillera Administrative",
@@ -49445,10 +45229,6 @@
         ]
       },
       {
-        "name": "Cotabato",
-        "cities": []
-      },
-      {
         "name": "Davao",
         "cities": [
           "Alejal",
@@ -49502,14 +45282,6 @@
           "Dacudao",
           "Davan"
         ]
-      },
-      {
-        "name": "Davao del Norte",
-        "cities": []
-      },
-      {
-        "name": "Davao del Sur",
-        "cities": []
       },
       {
         "name": "Davao Occidental",
@@ -49567,18 +45339,6 @@
         ]
       },
       {
-        "name": "Davao Oriental",
-        "cities": []
-      },
-      {
-        "name": "Dinagat Islands",
-        "cities": []
-      },
-      {
-        "name": "Eastern Samar",
-        "cities": []
-      },
-      {
         "name": "Eastern Visayas",
         "cities": [
           "Abuyog",
@@ -49632,14 +45392,6 @@
           "Calbiga",
           "Calubian"
         ]
-      },
-      {
-        "name": "Guimaras",
-        "cities": []
-      },
-      {
-        "name": "Ifugao",
-        "cities": []
       },
       {
         "name": "Ilocos",
@@ -49697,58 +45449,6 @@
         ]
       },
       {
-        "name": "Ilocos Norte",
-        "cities": []
-      },
-      {
-        "name": "Ilocos Sur",
-        "cities": []
-      },
-      {
-        "name": "Iloilo",
-        "cities": []
-      },
-      {
-        "name": "Isabela",
-        "cities": []
-      },
-      {
-        "name": "Kalinga",
-        "cities": []
-      },
-      {
-        "name": "La Union",
-        "cities": []
-      },
-      {
-        "name": "Laguna",
-        "cities": []
-      },
-      {
-        "name": "Lanao del Norte",
-        "cities": []
-      },
-      {
-        "name": "Lanao del Sur",
-        "cities": []
-      },
-      {
-        "name": "Leyte",
-        "cities": []
-      },
-      {
-        "name": "Maguindanao",
-        "cities": []
-      },
-      {
-        "name": "Marinduque",
-        "cities": []
-      },
-      {
-        "name": "Masbate",
-        "cities": []
-      },
-      {
         "name": "Metro Manila",
         "cities": [
           "Caloocan",
@@ -49787,46 +45487,6 @@
           "Tondo",
           "Valenzuela"
         ]
-      },
-      {
-        "name": "Mimaropa",
-        "cities": []
-      },
-      {
-        "name": "Misamis Occidental",
-        "cities": []
-      },
-      {
-        "name": "Misamis Oriental",
-        "cities": []
-      },
-      {
-        "name": "Mountain Province",
-        "cities": []
-      },
-      {
-        "name": "Negros Occidental",
-        "cities": []
-      },
-      {
-        "name": "Negros Oriental",
-        "cities": []
-      },
-      {
-        "name": "Northern Mindanao",
-        "cities": []
-      },
-      {
-        "name": "Northern Samar",
-        "cities": []
-      },
-      {
-        "name": "Nueva Ecija",
-        "cities": []
-      },
-      {
-        "name": "Nueva Vizcaya",
-        "cities": []
       },
       {
         "name": "Occidental Mindoro",
@@ -49939,42 +45599,6 @@
         ]
       },
       {
-        "name": "Palawan",
-        "cities": []
-      },
-      {
-        "name": "Pampanga",
-        "cities": []
-      },
-      {
-        "name": "Pangasinan",
-        "cities": []
-      },
-      {
-        "name": "Quezon",
-        "cities": []
-      },
-      {
-        "name": "Quirino",
-        "cities": []
-      },
-      {
-        "name": "Rizal",
-        "cities": []
-      },
-      {
-        "name": "Romblon",
-        "cities": []
-      },
-      {
-        "name": "Sarangani",
-        "cities": []
-      },
-      {
-        "name": "Siquijor",
-        "cities": []
-      },
-      {
         "name": "Soccsksargen",
         "cities": [
           "Alabel",
@@ -50028,66 +45652,6 @@
           "Glad",
           "Glamang"
         ]
-      },
-      {
-        "name": "Sorsogon",
-        "cities": []
-      },
-      {
-        "name": "South Cotabato",
-        "cities": []
-      },
-      {
-        "name": "Southern Leyte",
-        "cities": []
-      },
-      {
-        "name": "Sultan Kudarat",
-        "cities": []
-      },
-      {
-        "name": "Sulu",
-        "cities": []
-      },
-      {
-        "name": "Surigao del Norte",
-        "cities": []
-      },
-      {
-        "name": "Surigao del Sur",
-        "cities": []
-      },
-      {
-        "name": "Tarlac",
-        "cities": []
-      },
-      {
-        "name": "Tawi-Tawi",
-        "cities": []
-      },
-      {
-        "name": "Western Samar",
-        "cities": []
-      },
-      {
-        "name": "Western Visayas",
-        "cities": []
-      },
-      {
-        "name": "Zambales",
-        "cities": []
-      },
-      {
-        "name": "Zamboanga del Norte",
-        "cities": []
-      },
-      {
-        "name": "Zamboanga del Sur",
-        "cities": []
-      },
-      {
-        "name": "Zamboanga Peninsula",
-        "cities": []
       },
       {
         "name": "Zamboanga Sibugay",
@@ -50145,21 +45709,6 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Pitcairn Island",
-    "iso3": "PCN",
-    "iso2": "PN",
-    "phone_code": "870",
-    "capital": "Adamstown",
-    "currency": "NZD",
-    "currency_symbol": "$",
-    "native": "Pitcairn Islands",
-    "region": "Oceania",
-    "nationalities": [
-      "Pitcairn Island"
-    ],
-    "states": []
   },
   {
     "name": "Poland",
@@ -51927,10 +47476,6 @@
         ]
       },
       {
-        "name": "Arecibo",
-        "cities": []
-      },
-      {
         "name": "Arroyo",
         "cities": [
           "Arroyo"
@@ -51955,10 +47500,6 @@
         ]
       },
       {
-        "name": "Bayamon",
-        "cities": []
-      },
-      {
         "name": "Cabo Rojo",
         "cities": [
           "Cabo Rojo"
@@ -51969,10 +47510,6 @@
         "cities": [
           "Caguas"
         ]
-      },
-      {
-        "name": "Caguas",
-        "cities": []
       },
       {
         "name": "Camuy",
@@ -51991,10 +47528,6 @@
         "cities": [
           "Carolina"
         ]
-      },
-      {
-        "name": "Carolina",
-        "cities": []
       },
       {
         "name": "Cataño",
@@ -52091,10 +47624,6 @@
         "cities": [
           "Guaynabo"
         ]
-      },
-      {
-        "name": "Guaynabo",
-        "cities": []
       },
       {
         "name": "Gurabo",
@@ -52205,10 +47734,6 @@
         ]
       },
       {
-        "name": "Mayagüez",
-        "cities": []
-      },
-      {
         "name": "Moca",
         "cities": [
           "Moca"
@@ -52257,10 +47782,6 @@
         ]
       },
       {
-        "name": "Ponce",
-        "cities": []
-      },
-      {
         "name": "Quebradillas",
         "cities": [
           "Quebradillas"
@@ -52303,10 +47824,6 @@
         ]
       },
       {
-        "name": "San Juan",
-        "cities": []
-      },
-      {
         "name": "San Lorenzo",
         "cities": [
           "San Lorenzo"
@@ -52337,18 +47854,10 @@
         ]
       },
       {
-        "name": "Toa Baja",
-        "cities": []
-      },
-      {
         "name": "Trujillo Alto",
         "cities": [
           "Trujillo Alto"
         ]
-      },
-      {
-        "name": "Trujillo Alto",
-        "cities": []
       },
       {
         "name": "Utuado",
@@ -52409,10 +47918,6 @@
     ],
     "states": [
       {
-        "name": "Al Daayen",
-        "cities": []
-      },
-      {
         "name": "Al Khor",
         "cities": [
           "Al Ghuwayrīyah",
@@ -52463,21 +47968,6 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Reunion",
-    "iso3": "REU",
-    "iso2": "RE",
-    "phone_code": "262",
-    "capital": "Saint-Denis",
-    "currency": "EUR",
-    "currency_symbol": "€",
-    "native": "La Réunion",
-    "region": "Africa",
-    "nationalities": [
-      "Reunionese, Reunionnais"
-    ],
-    "states": []
   },
   {
     "name": "Romania",
@@ -55304,10 +50794,6 @@
           "Yantikovo",
           "Yantikovskiy Rayon"
         ]
-      },
-      {
-        "name": "Irkutsk",
-        "cities": []
       },
       {
         "name": "Ivanovo Oblast",
@@ -58727,21 +54213,6 @@
     ]
   },
   {
-    "name": "Saint Helena",
-    "iso3": "SHN",
-    "iso2": "SH",
-    "phone_code": "290",
-    "capital": "Jamestown",
-    "currency": "SHP",
-    "currency_symbol": "£",
-    "native": "Saint Helena",
-    "region": "Africa",
-    "nationalities": [
-      "Saint Helenian"
-    ],
-    "states": []
-  },
-  {
     "name": "Saint Kitts and Nevis",
     "iso3": "KNA",
     "iso2": "KN",
@@ -58760,10 +54231,6 @@
         "cities": [
           "Nicola Town"
         ]
-      },
-      {
-        "name": "Nevis",
-        "cities": []
       },
       {
         "name": "Saint Anne Sandy Point Parish",
@@ -58794,10 +54261,6 @@
         "cities": [
           "Fig Tree"
         ]
-      },
-      {
-        "name": "Saint Kitts",
-        "cities": []
       },
       {
         "name": "Saint Mary Cayon Parish",
@@ -58997,10 +54460,6 @@
         ]
       },
       {
-        "name": "Dauphin Quarter",
-        "cities": []
-      },
-      {
         "name": "Dennery Quarter",
         "cities": [
           "Anse Canot",
@@ -59189,10 +54648,6 @@
         ]
       },
       {
-        "name": "Praslin Quarter",
-        "cities": []
-      },
-      {
         "name": "Soufrière Quarter",
         "cities": [
           "Anse Chastanet",
@@ -59298,21 +54753,6 @@
     ]
   },
   {
-    "name": "Saint Pierre and Miquelon",
-    "iso3": "SPM",
-    "iso2": "PM",
-    "phone_code": "508",
-    "capital": "Saint-Pierre",
-    "currency": "EUR",
-    "currency_symbol": "€",
-    "native": "Saint-Pierre-et-Miquelon",
-    "region": "Americas",
-    "nationalities": [
-      "Saint-Pierrais, Miquelonnais"
-    ],
-    "states": []
-  },
-  {
     "name": "Saint Vincent and the Grenadines",
     "iso3": "VCT",
     "iso2": "VC",
@@ -59368,36 +54808,6 @@
     ]
   },
   {
-    "name": "Saint-Barthelemy",
-    "iso3": "BLM",
-    "iso2": "BL",
-    "phone_code": "590",
-    "capital": "Gustavia",
-    "currency": "EUR",
-    "currency_symbol": "€",
-    "native": "Saint-Barthélemy",
-    "region": "Americas",
-    "nationalities": [
-      "Barthelemois"
-    ],
-    "states": []
-  },
-  {
-    "name": "Saint-Martin (French part)",
-    "iso3": "MAF",
-    "iso2": "MF",
-    "phone_code": "590",
-    "capital": "Marigot",
-    "currency": "EUR",
-    "currency_symbol": "€",
-    "native": "Saint-Martin",
-    "region": "Americas",
-    "nationalities": [
-      "Saint-Martinoise"
-    ],
-    "states": []
-  },
-  {
     "name": "Samoa",
     "iso3": "WSM",
     "iso2": "WS",
@@ -59436,14 +54846,6 @@
         ]
       },
       {
-        "name": "Fa'asaleleaga",
-        "cities": []
-      },
-      {
-        "name": "Gaga'emauga",
-        "cities": []
-      },
-      {
         "name": "Gaga'ifomauga",
         "cities": [
           "Matavai",
@@ -59456,10 +54858,6 @@
           "Gataivai",
           "Vailoa"
         ]
-      },
-      {
-        "name": "Satupa'itea",
-        "cities": []
       },
       {
         "name": "Tuamasaga",
@@ -60098,18 +55496,6 @@
     ],
     "states": [
       {
-        "name": "Belgrade",
-        "cities": []
-      },
-      {
-        "name": "Bor District",
-        "cities": []
-      },
-      {
-        "name": "Braničevo District",
-        "cities": []
-      },
-      {
         "name": "Central Banat District",
         "cities": [
           "Aranđelovac",
@@ -60165,78 +55551,6 @@
         ]
       },
       {
-        "name": "Jablanica District",
-        "cities": []
-      },
-      {
-        "name": "Kolubara District",
-        "cities": []
-      },
-      {
-        "name": "Mačva District",
-        "cities": []
-      },
-      {
-        "name": "Moravica District",
-        "cities": []
-      },
-      {
-        "name": "Nišava District",
-        "cities": []
-      },
-      {
-        "name": "North Bačka District",
-        "cities": []
-      },
-      {
-        "name": "North Banat District",
-        "cities": []
-      },
-      {
-        "name": "Pčinja District",
-        "cities": []
-      },
-      {
-        "name": "Pirot District",
-        "cities": []
-      },
-      {
-        "name": "Podunavlje District",
-        "cities": []
-      },
-      {
-        "name": "Pomoravlje District",
-        "cities": []
-      },
-      {
-        "name": "Rasina District",
-        "cities": []
-      },
-      {
-        "name": "Raška District",
-        "cities": []
-      },
-      {
-        "name": "South Bačka District",
-        "cities": []
-      },
-      {
-        "name": "South Banat District",
-        "cities": []
-      },
-      {
-        "name": "Srem District",
-        "cities": []
-      },
-      {
-        "name": "Šumadija District",
-        "cities": []
-      },
-      {
-        "name": "Toplica District",
-        "cities": []
-      },
-      {
         "name": "Vojvodina",
         "cities": [
           "Adorjan",
@@ -60290,18 +55604,6 @@
           "Gložan",
           "Golubinci"
         ]
-      },
-      {
-        "name": "West Bačka District",
-        "cities": []
-      },
-      {
-        "name": "Zaječar District",
-        "cities": []
-      },
-      {
-        "name": "Zlatibor District",
-        "cities": []
       }
     ]
   },
@@ -60332,30 +55634,10 @@
         ]
       },
       {
-        "name": "Anse-aux-Pins",
-        "cities": []
-      },
-      {
-        "name": "Au Cap",
-        "cities": []
-      },
-      {
-        "name": "Baie Lazare",
-        "cities": []
-      },
-      {
-        "name": "Baie Sainte Anne",
-        "cities": []
-      },
-      {
         "name": "Beau Vallon",
         "cities": [
           "Beau Vallon"
         ]
-      },
-      {
-        "name": "Bel Air",
-        "cities": []
       },
       {
         "name": "Bel Ombre",
@@ -60370,60 +55652,16 @@
         ]
       },
       {
-        "name": "Glacis",
-        "cities": []
-      },
-      {
-        "name": "Grand'Anse Mahé",
-        "cities": []
-      },
-      {
-        "name": "Grand'Anse Praslin",
-        "cities": []
-      },
-      {
-        "name": "La Digue",
-        "cities": []
-      },
-      {
         "name": "La Rivière Anglaise",
         "cities": [
           "Victoria"
         ]
       },
       {
-        "name": "Les Mamelles",
-        "cities": []
-      },
-      {
-        "name": "Mont Buxton",
-        "cities": []
-      },
-      {
-        "name": "Mont Fleuri",
-        "cities": []
-      },
-      {
-        "name": "Plaisance",
-        "cities": []
-      },
-      {
-        "name": "Pointe La Rue",
-        "cities": []
-      },
-      {
         "name": "Port Glaud",
         "cities": [
           "Port Glaud"
         ]
-      },
-      {
-        "name": "Roche Caiman",
-        "cities": []
-      },
-      {
-        "name": "Saint Louis",
-        "cities": []
       },
       {
         "name": "Takamaka",
@@ -60625,21 +55863,6 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Sint Maarten (Dutch part)",
-    "iso3": "SXM",
-    "iso2": "SX",
-    "phone_code": "1721",
-    "capital": "Philipsburg",
-    "currency": "ANG",
-    "currency_symbol": "ƒ",
-    "native": "Sint Maarten",
-    "region": "Americas",
-    "nationalities": [
-      "Sint Maarten"
-    ],
-    "states": []
   },
   {
     "name": "Slovakia",
@@ -61203,10 +56426,6 @@
         ]
       },
       {
-        "name": "Gorje Municipality",
-        "cities": []
-      },
-      {
         "name": "Gornja Radgona Municipality",
         "cities": [
           "Gornja Radgona"
@@ -61390,10 +56609,6 @@
         ]
       },
       {
-        "name": "Kostanjevica na Krki Municipality",
-        "cities": []
-      },
-      {
         "name": "Kostel Municipality",
         "cities": [
           "Kostel"
@@ -61494,10 +56709,6 @@
         ]
       },
       {
-        "name": "Log–Dragomer Municipality",
-        "cities": []
-      },
-      {
         "name": "Logatec Municipality",
         "cities": [
           "Logatec"
@@ -61538,10 +56749,6 @@
         "cities": [
           "Majšperk"
         ]
-      },
-      {
-        "name": "Makole Municipality",
-        "cities": []
       },
       {
         "name": "Maribor City Municipality",
@@ -61601,10 +56808,6 @@
         ]
       },
       {
-        "name": "Mirna Municipality",
-        "cities": []
-      },
-      {
         "name": "Mirna Peč Municipality",
         "cities": [
           "Mirna Peč"
@@ -61615,10 +56818,6 @@
         "cities": [
           "Mislinja"
         ]
-      },
-      {
-        "name": "Mokronog–Trebelno Municipality",
-        "cities": []
       },
       {
         "name": "Moravče Municipality",
@@ -61643,10 +56842,6 @@
         "cities": [
           "Apače"
         ]
-      },
-      {
-        "name": "Municipality of Cirkulane",
-        "cities": []
       },
       {
         "name": "Municipality of Ilirska Bistrica",
@@ -61771,10 +56966,6 @@
         ]
       },
       {
-        "name": "Poljčane Municipality",
-        "cities": []
-      },
-      {
         "name": "Polzela Municipality",
         "cities": [
           "Polzela"
@@ -61861,10 +57052,6 @@
         "cities": [
           "Razkrižje"
         ]
-      },
-      {
-        "name": "Rečica ob Savinji Municipality",
-        "cities": []
       },
       {
         "name": "Renče–Vogrsko Municipality",
@@ -62103,10 +57290,6 @@
         ]
       },
       {
-        "name": "Sveti Jurij ob Ščavnici Municipality",
-        "cities": []
-      },
-      {
         "name": "Sveti Jurij v Slovenskih Goricah Municipality",
         "cities": [
           "Sveti Jurij ob Ščavnici"
@@ -62323,18 +57506,10 @@
         ]
       },
       {
-        "name": "Choiseul Province",
-        "cities": []
-      },
-      {
         "name": "Guadalcanal Province",
         "cities": [
           "Honiara"
         ]
-      },
-      {
-        "name": "Honiara",
-        "cities": []
       },
       {
         "name": "Isabel Province",
@@ -62353,10 +57528,6 @@
         "cities": [
           "Auki"
         ]
-      },
-      {
-        "name": "Rennell and Bellona Province",
-        "cities": []
       },
       {
         "name": "Temotu Province",
@@ -62386,10 +57557,6 @@
       "Somali, Somalian"
     ],
     "states": [
-      {
-        "name": "Awdal Region",
-        "cities": []
-      },
       {
         "name": "Bakool",
         "cities": [
@@ -62887,21 +58054,6 @@
     ]
   },
   {
-    "name": "South Georgia",
-    "iso3": "SGS",
-    "iso2": "GS",
-    "phone_code": "500",
-    "capital": "Grytviken",
-    "currency": "GBP",
-    "currency_symbol": "£",
-    "native": "South Georgia",
-    "region": "Americas",
-    "nationalities": [
-      "South Georgia, South Sandwich Islands"
-    ],
-    "states": []
-  },
-  {
     "name": "South Korea",
     "iso3": "KOR",
     "iso2": "KR",
@@ -63326,46 +58478,10 @@
     ],
     "states": [
       {
-        "name": "Central Equatoria",
-        "cities": []
-      },
-      {
-        "name": "Eastern Equatoria",
-        "cities": []
-      },
-      {
-        "name": "Jonglei State",
-        "cities": []
-      },
-      {
         "name": "Lakes",
         "cities": [
           "Yirol"
         ]
-      },
-      {
-        "name": "Northern Bahr el Ghazal",
-        "cities": []
-      },
-      {
-        "name": "Unity",
-        "cities": []
-      },
-      {
-        "name": "Upper Nile",
-        "cities": []
-      },
-      {
-        "name": "Warrap",
-        "cities": []
-      },
-      {
-        "name": "Western Bahr el Ghazal",
-        "cities": []
-      },
-      {
-        "name": "Western Equatoria",
-        "cities": []
       }
     ]
   },
@@ -64213,10 +59329,6 @@
           "Costur",
           "Coves de Vinromà les"
         ]
-      },
-      {
-        "name": "Ceuta",
-        "cities": []
       },
       {
         "name": "Ciudad Real",
@@ -65209,10 +60321,6 @@
         ]
       },
       {
-        "name": "Melilla",
-        "cities": []
-      },
-      {
         "name": "Murcia",
         "cities": [
           "Abanilla",
@@ -66164,22 +61272,6 @@
     ],
     "states": [
       {
-        "name": "Ampara District",
-        "cities": []
-      },
-      {
-        "name": "Anuradhapura District",
-        "cities": []
-      },
-      {
-        "name": "Badulla District",
-        "cities": []
-      },
-      {
-        "name": "Batticaloa District",
-        "cities": []
-      },
-      {
         "name": "Central Province",
         "cities": [
           "Dambulla",
@@ -66224,26 +61316,6 @@
           "Trincomalee District",
           "Vakarai"
         ]
-      },
-      {
-        "name": "Galle District",
-        "cities": []
-      },
-      {
-        "name": "Gampaha District",
-        "cities": []
-      },
-      {
-        "name": "Hambantota District",
-        "cities": []
-      },
-      {
-        "name": "Jaffna District",
-        "cities": []
-      },
-      {
-        "name": "Kalutara District",
-        "cities": []
       },
       {
         "name": "Kandy District",
@@ -66296,34 +61368,6 @@
         ]
       },
       {
-        "name": "Kegalle District",
-        "cities": []
-      },
-      {
-        "name": "Kilinochchi District",
-        "cities": []
-      },
-      {
-        "name": "Mannar District",
-        "cities": []
-      },
-      {
-        "name": "Matale District",
-        "cities": []
-      },
-      {
-        "name": "Matara District",
-        "cities": []
-      },
-      {
-        "name": "Monaragala District",
-        "cities": []
-      },
-      {
-        "name": "Mullaitivu District",
-        "cities": []
-      },
-      {
         "name": "North Central Province",
         "cities": [
           "Anuradhapura",
@@ -66358,22 +61402,6 @@
         ]
       },
       {
-        "name": "Nuwara Eliya District",
-        "cities": []
-      },
-      {
-        "name": "Polonnaruwa District",
-        "cities": []
-      },
-      {
-        "name": "Puttalam District",
-        "cities": []
-      },
-      {
-        "name": "Ratnapura district",
-        "cities": []
-      },
-      {
         "name": "Sabaragamuwa Province",
         "cities": [
           "Kegalle",
@@ -66403,10 +61431,6 @@
         ]
       },
       {
-        "name": "Trincomalee District",
-        "cities": []
-      },
-      {
         "name": "Uva Province",
         "cities": [
           "Badulla",
@@ -66418,10 +61442,6 @@
           "Moneragala District",
           "Wellawaya"
         ]
-      },
-      {
-        "name": "Vavuniya District",
-        "cities": []
       },
       {
         "name": "Western Province",
@@ -66699,31 +61719,12 @@
         ]
       },
       {
-        "name": "Sipaliwini District",
-        "cities": []
-      },
-      {
         "name": "Wanica District",
         "cities": [
           "Lelydorp"
         ]
       }
     ]
-  },
-  {
-    "name": "Svalbard and Jan Mayen Islands",
-    "iso3": "SJM",
-    "iso2": "SJ",
-    "phone_code": "47",
-    "capital": "Longyearbyen",
-    "currency": "NOK",
-    "currency_symbol": "kr",
-    "native": "Svalbard og Jan Mayen",
-    "region": "Europe",
-    "nationalities": [
-      "Svalbard"
-    ],
-    "states": []
   },
   {
     "name": "Sweden",
@@ -66882,10 +61883,6 @@
           "Veddige",
           "Veinge"
         ]
-      },
-      {
-        "name": "Jämtland County",
-        "cities": []
       },
       {
         "name": "Jönköping County",
@@ -68739,10 +63736,6 @@
         ]
       },
       {
-        "name": "Keelung",
-        "cities": []
-      },
-      {
         "name": "Kinmen",
         "cities": [
           "Jincheng",
@@ -68770,10 +63763,6 @@
           "Puli",
           "Zhongxing New Village"
         ]
-      },
-      {
-        "name": "New Taipei",
-        "cities": []
       },
       {
         "name": "Penghu",
@@ -69348,10 +64337,6 @@
           "Shelui",
           "Singida"
         ]
-      },
-      {
-        "name": "Songwe",
-        "cities": []
       },
       {
         "name": "Tabora",
@@ -70278,10 +65263,6 @@
         ]
       },
       {
-        "name": "Pattaya",
-        "cities": []
-      },
-      {
         "name": "Phangnga",
         "cities": [
           "Amphoe Kapong",
@@ -71072,26 +66053,10 @@
     ],
     "states": [
       {
-        "name": "Acklins",
-        "cities": []
-      },
-      {
-        "name": "Acklins and Crooked Islands",
-        "cities": []
-      },
-      {
-        "name": "Berry Islands",
-        "cities": []
-      },
-      {
         "name": "Bimini",
         "cities": [
           "Alice Town"
         ]
-      },
-      {
-        "name": "Black Point",
-        "cities": []
       },
       {
         "name": "Cat Island",
@@ -71104,14 +66069,6 @@
         "cities": [
           "Marsh Harbour"
         ]
-      },
-      {
-        "name": "Central Andros",
-        "cities": []
-      },
-      {
-        "name": "Central Eleuthera",
-        "cities": []
       },
       {
         "name": "Crooked Island",
@@ -71139,34 +66096,10 @@
         ]
       },
       {
-        "name": "Fresh Creek",
-        "cities": []
-      },
-      {
-        "name": "Governor's Harbour",
-        "cities": []
-      },
-      {
-        "name": "Grand Cay",
-        "cities": []
-      },
-      {
-        "name": "Green Turtle Cay",
-        "cities": []
-      },
-      {
         "name": "Harbour Island",
         "cities": [
           "Dunmore Town"
         ]
-      },
-      {
-        "name": "High Rock",
-        "cities": []
-      },
-      {
-        "name": "Hope Town",
-        "cities": []
       },
       {
         "name": "Inagua",
@@ -71175,22 +66108,10 @@
         ]
       },
       {
-        "name": "Kemps Bay",
-        "cities": []
-      },
-      {
         "name": "Long Island",
         "cities": [
           "Clarence Town"
         ]
-      },
-      {
-        "name": "Mangrove Cay",
-        "cities": []
-      },
-      {
-        "name": "Marsh Harbour",
-        "cities": []
       },
       {
         "name": "Mayaguana District",
@@ -71203,10 +66124,6 @@
         "cities": [
           "Nassau"
         ]
-      },
-      {
-        "name": "Nichollstown and Berry Islands",
-        "cities": []
       },
       {
         "name": "North Abaco",
@@ -71222,18 +66139,10 @@
         ]
       },
       {
-        "name": "North Eleuthera",
-        "cities": []
-      },
-      {
         "name": "Ragged Island",
         "cities": [
           "Duncan Town"
         ]
-      },
-      {
-        "name": "Rock Sound",
-        "cities": []
       },
       {
         "name": "Rum Cay District",
@@ -71242,30 +66151,10 @@
         ]
       },
       {
-        "name": "San Salvador and Rum Cay",
-        "cities": []
-      },
-      {
         "name": "San Salvador Island",
         "cities": [
           "Cockburn Town"
         ]
-      },
-      {
-        "name": "Sandy Point",
-        "cities": []
-      },
-      {
-        "name": "South Abaco",
-        "cities": []
-      },
-      {
-        "name": "South Andros",
-        "cities": []
-      },
-      {
-        "name": "South Eleuthera",
-        "cities": []
       },
       {
         "name": "Spanish Wells",
@@ -71471,21 +66360,6 @@
     ]
   },
   {
-    "name": "Tokelau",
-    "iso3": "TKL",
-    "iso2": "TK",
-    "phone_code": "690",
-    "capital": "",
-    "currency": "NZD",
-    "currency_symbol": "$",
-    "native": "Tokelau",
-    "region": "Oceania",
-    "nationalities": [
-      "Tokelauan"
-    ],
-    "states": []
-  },
-  {
     "name": "Tonga",
     "iso3": "TON",
     "iso2": "TO",
@@ -71606,10 +66480,6 @@
         "cities": [
           "Princes Town"
         ]
-      },
-      {
-        "name": "Rio Claro-Mayaro Regional Corporation",
-        "cities": []
       },
       {
         "name": "San Fernando",
@@ -73426,21 +68296,6 @@
     ]
   },
   {
-    "name": "Turks and Caicos Islands",
-    "iso3": "TCA",
-    "iso2": "TC",
-    "phone_code": "+1-649",
-    "capital": "Cockburn Town",
-    "currency": "USD",
-    "currency_symbol": "$",
-    "native": "Turks and Caicos Islands",
-    "region": "Americas",
-    "nationalities": [
-      "Turks and Caicos Island"
-    ],
-    "states": []
-  },
-  {
     "name": "Tuvalu",
     "iso3": "TUV",
     "iso2": "TV",
@@ -73469,10 +68324,6 @@
         ]
       },
       {
-        "name": "Nanumea",
-        "cities": []
-      },
-      {
         "name": "Niutao Island Council",
         "cities": [
           "Kulia Village",
@@ -73490,10 +68341,6 @@
         "cities": [
           "Savave Village"
         ]
-      },
-      {
-        "name": "Nukulaelae",
-        "cities": []
       },
       {
         "name": "Vaitupu",
@@ -73517,122 +68364,6 @@
       "Ugandan"
     ],
     "states": [
-      {
-        "name": "Abim District",
-        "cities": []
-      },
-      {
-        "name": "Adjumani District",
-        "cities": []
-      },
-      {
-        "name": "Agago District",
-        "cities": []
-      },
-      {
-        "name": "Alebtong District",
-        "cities": []
-      },
-      {
-        "name": "Amolatar District",
-        "cities": []
-      },
-      {
-        "name": "Amudat District",
-        "cities": []
-      },
-      {
-        "name": "Amuria District",
-        "cities": []
-      },
-      {
-        "name": "Amuru District",
-        "cities": []
-      },
-      {
-        "name": "Apac District",
-        "cities": []
-      },
-      {
-        "name": "Arua District",
-        "cities": []
-      },
-      {
-        "name": "Budaka District",
-        "cities": []
-      },
-      {
-        "name": "Bududa District",
-        "cities": []
-      },
-      {
-        "name": "Bugiri District",
-        "cities": []
-      },
-      {
-        "name": "Buhweju District",
-        "cities": []
-      },
-      {
-        "name": "Buikwe District",
-        "cities": []
-      },
-      {
-        "name": "Bukedea District",
-        "cities": []
-      },
-      {
-        "name": "Bukomansimbi District",
-        "cities": []
-      },
-      {
-        "name": "Bukwo District",
-        "cities": []
-      },
-      {
-        "name": "Bulambuli District",
-        "cities": []
-      },
-      {
-        "name": "Buliisa District",
-        "cities": []
-      },
-      {
-        "name": "Bundibugyo District",
-        "cities": []
-      },
-      {
-        "name": "Bunyangabu District",
-        "cities": []
-      },
-      {
-        "name": "Bushenyi District",
-        "cities": []
-      },
-      {
-        "name": "Busia District",
-        "cities": []
-      },
-      {
-        "name": "Butaleja District",
-        "cities": []
-      },
-      {
-        "name": "Butambala District",
-        "cities": []
-      },
-      {
-        "name": "Butebo District",
-        "cities": []
-      },
-      {
-        "name": "Buvuma District",
-        "cities": []
-      },
-      {
-        "name": "Buyende District",
-        "cities": []
-      },
       {
         "name": "Central Region",
         "cities": [
@@ -73669,10 +68400,6 @@
         ]
       },
       {
-        "name": "Dokolo District",
-        "cities": []
-      },
-      {
         "name": "Eastern Region",
         "cities": [
           "Bugembe",
@@ -73697,278 +68424,6 @@
         ]
       },
       {
-        "name": "Gomba District",
-        "cities": []
-      },
-      {
-        "name": "Gulu District",
-        "cities": []
-      },
-      {
-        "name": "Ibanda District",
-        "cities": []
-      },
-      {
-        "name": "Iganga District",
-        "cities": []
-      },
-      {
-        "name": "Isingiro District",
-        "cities": []
-      },
-      {
-        "name": "Jinja District",
-        "cities": []
-      },
-      {
-        "name": "Kaabong District",
-        "cities": []
-      },
-      {
-        "name": "Kabale District",
-        "cities": []
-      },
-      {
-        "name": "Kabarole District",
-        "cities": []
-      },
-      {
-        "name": "Kaberamaido District",
-        "cities": []
-      },
-      {
-        "name": "Kagadi District",
-        "cities": []
-      },
-      {
-        "name": "Kakumiro District",
-        "cities": []
-      },
-      {
-        "name": "Kalangala District",
-        "cities": []
-      },
-      {
-        "name": "Kaliro District",
-        "cities": []
-      },
-      {
-        "name": "Kalungu District",
-        "cities": []
-      },
-      {
-        "name": "Kampala District",
-        "cities": []
-      },
-      {
-        "name": "Kamuli District",
-        "cities": []
-      },
-      {
-        "name": "Kamwenge District",
-        "cities": []
-      },
-      {
-        "name": "Kanungu District",
-        "cities": []
-      },
-      {
-        "name": "Kapchorwa District",
-        "cities": []
-      },
-      {
-        "name": "Kasese District",
-        "cities": []
-      },
-      {
-        "name": "Katakwi District",
-        "cities": []
-      },
-      {
-        "name": "Kayunga District",
-        "cities": []
-      },
-      {
-        "name": "Kibaale District",
-        "cities": []
-      },
-      {
-        "name": "Kiboga District",
-        "cities": []
-      },
-      {
-        "name": "Kibuku District",
-        "cities": []
-      },
-      {
-        "name": "Kiruhura District",
-        "cities": []
-      },
-      {
-        "name": "Kiryandongo District",
-        "cities": []
-      },
-      {
-        "name": "Kisoro District",
-        "cities": []
-      },
-      {
-        "name": "Kitgum District",
-        "cities": []
-      },
-      {
-        "name": "Koboko District",
-        "cities": []
-      },
-      {
-        "name": "Kole District",
-        "cities": []
-      },
-      {
-        "name": "Kotido District",
-        "cities": []
-      },
-      {
-        "name": "Kumi District",
-        "cities": []
-      },
-      {
-        "name": "Kween District",
-        "cities": []
-      },
-      {
-        "name": "Kyankwanzi District",
-        "cities": []
-      },
-      {
-        "name": "Kyegegwa District",
-        "cities": []
-      },
-      {
-        "name": "Kyenjojo District",
-        "cities": []
-      },
-      {
-        "name": "Kyotera District",
-        "cities": []
-      },
-      {
-        "name": "Lamwo District",
-        "cities": []
-      },
-      {
-        "name": "Lira District",
-        "cities": []
-      },
-      {
-        "name": "Luuka District",
-        "cities": []
-      },
-      {
-        "name": "Luwero District",
-        "cities": []
-      },
-      {
-        "name": "Lwengo District",
-        "cities": []
-      },
-      {
-        "name": "Lyantonde District",
-        "cities": []
-      },
-      {
-        "name": "Manafwa District",
-        "cities": []
-      },
-      {
-        "name": "Maracha District",
-        "cities": []
-      },
-      {
-        "name": "Masaka District",
-        "cities": []
-      },
-      {
-        "name": "Masindi District",
-        "cities": []
-      },
-      {
-        "name": "Mayuge District",
-        "cities": []
-      },
-      {
-        "name": "Mbale District",
-        "cities": []
-      },
-      {
-        "name": "Mbarara District",
-        "cities": []
-      },
-      {
-        "name": "Mitooma District",
-        "cities": []
-      },
-      {
-        "name": "Mityana District",
-        "cities": []
-      },
-      {
-        "name": "Moroto District",
-        "cities": []
-      },
-      {
-        "name": "Moyo District",
-        "cities": []
-      },
-      {
-        "name": "Mpigi District",
-        "cities": []
-      },
-      {
-        "name": "Mubende District",
-        "cities": []
-      },
-      {
-        "name": "Mukono District",
-        "cities": []
-      },
-      {
-        "name": "Nakapiripirit District",
-        "cities": []
-      },
-      {
-        "name": "Nakaseke District",
-        "cities": []
-      },
-      {
-        "name": "Nakasongola District",
-        "cities": []
-      },
-      {
-        "name": "Namayingo District",
-        "cities": []
-      },
-      {
-        "name": "Namisindwa District",
-        "cities": []
-      },
-      {
-        "name": "Namutumba District",
-        "cities": []
-      },
-      {
-        "name": "Napak District",
-        "cities": []
-      },
-      {
-        "name": "Nebbi District",
-        "cities": []
-      },
-      {
-        "name": "Ngora District",
-        "cities": []
-      },
-      {
         "name": "Northern Region",
         "cities": [
           "Adjumani",
@@ -73989,90 +68444,6 @@
           "Paidha",
           "Yumbe"
         ]
-      },
-      {
-        "name": "Ntoroko District",
-        "cities": []
-      },
-      {
-        "name": "Ntungamo District",
-        "cities": []
-      },
-      {
-        "name": "Nwoya District",
-        "cities": []
-      },
-      {
-        "name": "Omoro District",
-        "cities": []
-      },
-      {
-        "name": "Otuke District",
-        "cities": []
-      },
-      {
-        "name": "Oyam District",
-        "cities": []
-      },
-      {
-        "name": "Pader District",
-        "cities": []
-      },
-      {
-        "name": "Pakwach District",
-        "cities": []
-      },
-      {
-        "name": "Pallisa District",
-        "cities": []
-      },
-      {
-        "name": "Rakai District",
-        "cities": []
-      },
-      {
-        "name": "Rubanda District",
-        "cities": []
-      },
-      {
-        "name": "Rubirizi District",
-        "cities": []
-      },
-      {
-        "name": "Rukiga District",
-        "cities": []
-      },
-      {
-        "name": "Rukungiri District",
-        "cities": []
-      },
-      {
-        "name": "Sembabule District",
-        "cities": []
-      },
-      {
-        "name": "Serere District",
-        "cities": []
-      },
-      {
-        "name": "Sheema District",
-        "cities": []
-      },
-      {
-        "name": "Sironko District",
-        "cities": []
-      },
-      {
-        "name": "Soroti District",
-        "cities": []
-      },
-      {
-        "name": "Tororo District",
-        "cities": []
-      },
-      {
-        "name": "Wakiso District",
-        "cities": []
       },
       {
         "name": "Western Region",
@@ -74103,14 +68474,6 @@
           "Nyachera",
           "Rukungiri"
         ]
-      },
-      {
-        "name": "Yumbe District",
-        "cities": []
-      },
-      {
-        "name": "Zombo District",
-        "cities": []
       }
     ]
   },
@@ -75501,354 +69864,6 @@
     ],
     "states": [
       {
-        "name": "Aberdeen",
-        "cities": []
-      },
-      {
-        "name": "Aberdeenshire",
-        "cities": []
-      },
-      {
-        "name": "Angus",
-        "cities": []
-      },
-      {
-        "name": "Antrim",
-        "cities": []
-      },
-      {
-        "name": "Antrim and Newtownabbey",
-        "cities": []
-      },
-      {
-        "name": "Ards",
-        "cities": []
-      },
-      {
-        "name": "Ards and North Down",
-        "cities": []
-      },
-      {
-        "name": "Argyll and Bute",
-        "cities": []
-      },
-      {
-        "name": "Armagh City and District Council",
-        "cities": []
-      },
-      {
-        "name": "Armagh, Banbridge and Craigavon",
-        "cities": []
-      },
-      {
-        "name": "Ascension Island",
-        "cities": []
-      },
-      {
-        "name": "Ballymena Borough",
-        "cities": []
-      },
-      {
-        "name": "Ballymoney",
-        "cities": []
-      },
-      {
-        "name": "Banbridge",
-        "cities": []
-      },
-      {
-        "name": "Barnsley",
-        "cities": []
-      },
-      {
-        "name": "Bath and North East Somerset",
-        "cities": []
-      },
-      {
-        "name": "Bedford",
-        "cities": []
-      },
-      {
-        "name": "Belfast district",
-        "cities": []
-      },
-      {
-        "name": "Birmingham",
-        "cities": []
-      },
-      {
-        "name": "Blackburn with Darwen",
-        "cities": []
-      },
-      {
-        "name": "Blackpool",
-        "cities": []
-      },
-      {
-        "name": "Blaenau Gwent County Borough",
-        "cities": []
-      },
-      {
-        "name": "Bolton",
-        "cities": []
-      },
-      {
-        "name": "Bournemouth",
-        "cities": []
-      },
-      {
-        "name": "Bracknell Forest",
-        "cities": []
-      },
-      {
-        "name": "Bradford",
-        "cities": []
-      },
-      {
-        "name": "Bridgend County Borough",
-        "cities": []
-      },
-      {
-        "name": "Brighton and Hove",
-        "cities": []
-      },
-      {
-        "name": "Buckinghamshire",
-        "cities": []
-      },
-      {
-        "name": "Bury",
-        "cities": []
-      },
-      {
-        "name": "Caerphilly County Borough",
-        "cities": []
-      },
-      {
-        "name": "Calderdale",
-        "cities": []
-      },
-      {
-        "name": "Cambridgeshire",
-        "cities": []
-      },
-      {
-        "name": "Carmarthenshire",
-        "cities": []
-      },
-      {
-        "name": "Carrickfergus Borough Council",
-        "cities": []
-      },
-      {
-        "name": "Castlereagh",
-        "cities": []
-      },
-      {
-        "name": "Causeway Coast and Glens",
-        "cities": []
-      },
-      {
-        "name": "Central Bedfordshire",
-        "cities": []
-      },
-      {
-        "name": "Ceredigion",
-        "cities": []
-      },
-      {
-        "name": "Cheshire East",
-        "cities": []
-      },
-      {
-        "name": "Cheshire West and Chester",
-        "cities": []
-      },
-      {
-        "name": "City and County of Cardiff",
-        "cities": []
-      },
-      {
-        "name": "City and County of Swansea",
-        "cities": []
-      },
-      {
-        "name": "City of Bristol",
-        "cities": []
-      },
-      {
-        "name": "City of Derby",
-        "cities": []
-      },
-      {
-        "name": "City of Kingston upon Hull",
-        "cities": []
-      },
-      {
-        "name": "City of Leicester",
-        "cities": []
-      },
-      {
-        "name": "City of London",
-        "cities": []
-      },
-      {
-        "name": "City of Nottingham",
-        "cities": []
-      },
-      {
-        "name": "City of Peterborough",
-        "cities": []
-      },
-      {
-        "name": "City of Plymouth",
-        "cities": []
-      },
-      {
-        "name": "City of Portsmouth",
-        "cities": []
-      },
-      {
-        "name": "City of Southampton",
-        "cities": []
-      },
-      {
-        "name": "City of Stoke-on-Trent",
-        "cities": []
-      },
-      {
-        "name": "City of Sunderland",
-        "cities": []
-      },
-      {
-        "name": "City of Westminster",
-        "cities": []
-      },
-      {
-        "name": "City of Wolverhampton",
-        "cities": []
-      },
-      {
-        "name": "City of York",
-        "cities": []
-      },
-      {
-        "name": "Clackmannanshire",
-        "cities": []
-      },
-      {
-        "name": "Coleraine Borough Council",
-        "cities": []
-      },
-      {
-        "name": "Conwy County Borough",
-        "cities": []
-      },
-      {
-        "name": "Cookstown District Council",
-        "cities": []
-      },
-      {
-        "name": "Cornwall",
-        "cities": []
-      },
-      {
-        "name": "County Durham",
-        "cities": []
-      },
-      {
-        "name": "Coventry",
-        "cities": []
-      },
-      {
-        "name": "Craigavon Borough Council",
-        "cities": []
-      },
-      {
-        "name": "Cumbria",
-        "cities": []
-      },
-      {
-        "name": "Darlington",
-        "cities": []
-      },
-      {
-        "name": "Denbighshire",
-        "cities": []
-      },
-      {
-        "name": "Derbyshire",
-        "cities": []
-      },
-      {
-        "name": "Derry City and Strabane",
-        "cities": []
-      },
-      {
-        "name": "Derry City Council",
-        "cities": []
-      },
-      {
-        "name": "Devon",
-        "cities": []
-      },
-      {
-        "name": "Doncaster",
-        "cities": []
-      },
-      {
-        "name": "Dorset",
-        "cities": []
-      },
-      {
-        "name": "Down District Council",
-        "cities": []
-      },
-      {
-        "name": "Dudley",
-        "cities": []
-      },
-      {
-        "name": "Dumfries and Galloway",
-        "cities": []
-      },
-      {
-        "name": "Dundee",
-        "cities": []
-      },
-      {
-        "name": "Dungannon and South Tyrone Borough Council",
-        "cities": []
-      },
-      {
-        "name": "East Ayrshire",
-        "cities": []
-      },
-      {
-        "name": "East Dunbartonshire",
-        "cities": []
-      },
-      {
-        "name": "East Lothian",
-        "cities": []
-      },
-      {
-        "name": "East Renfrewshire",
-        "cities": []
-      },
-      {
-        "name": "East Riding of Yorkshire",
-        "cities": []
-      },
-      {
-        "name": "East Sussex",
-        "cities": []
-      },
-      {
-        "name": "Edinburgh",
-        "cities": []
-      },
-      {
         "name": "England",
         "cities": [
           "Abbey Wood",
@@ -75902,358 +69917,6 @@
           "Amble",
           "Ambleside"
         ]
-      },
-      {
-        "name": "Essex",
-        "cities": []
-      },
-      {
-        "name": "Falkirk",
-        "cities": []
-      },
-      {
-        "name": "Fermanagh and Omagh",
-        "cities": []
-      },
-      {
-        "name": "Fermanagh District Council",
-        "cities": []
-      },
-      {
-        "name": "Fife",
-        "cities": []
-      },
-      {
-        "name": "Flintshire",
-        "cities": []
-      },
-      {
-        "name": "Gateshead",
-        "cities": []
-      },
-      {
-        "name": "Glasgow",
-        "cities": []
-      },
-      {
-        "name": "Gloucestershire",
-        "cities": []
-      },
-      {
-        "name": "Gwynedd",
-        "cities": []
-      },
-      {
-        "name": "Halton",
-        "cities": []
-      },
-      {
-        "name": "Hampshire",
-        "cities": []
-      },
-      {
-        "name": "Hartlepool",
-        "cities": []
-      },
-      {
-        "name": "Herefordshire",
-        "cities": []
-      },
-      {
-        "name": "Hertfordshire",
-        "cities": []
-      },
-      {
-        "name": "Highland",
-        "cities": []
-      },
-      {
-        "name": "Inverclyde",
-        "cities": []
-      },
-      {
-        "name": "Isle of Wight",
-        "cities": []
-      },
-      {
-        "name": "Isles of Scilly",
-        "cities": []
-      },
-      {
-        "name": "Kent",
-        "cities": []
-      },
-      {
-        "name": "Kirklees",
-        "cities": []
-      },
-      {
-        "name": "Knowsley",
-        "cities": []
-      },
-      {
-        "name": "Lancashire",
-        "cities": []
-      },
-      {
-        "name": "Larne Borough Council",
-        "cities": []
-      },
-      {
-        "name": "Leeds",
-        "cities": []
-      },
-      {
-        "name": "Leicestershire",
-        "cities": []
-      },
-      {
-        "name": "Limavady Borough Council",
-        "cities": []
-      },
-      {
-        "name": "Lincolnshire",
-        "cities": []
-      },
-      {
-        "name": "Lisburn and Castlereagh",
-        "cities": []
-      },
-      {
-        "name": "Lisburn City Council",
-        "cities": []
-      },
-      {
-        "name": "Liverpool",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Barking and Dagenham",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Barnet",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Bexley",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Brent",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Bromley",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Camden",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Croydon",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Ealing",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Enfield",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Hackney",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Hammersmith and Fulham",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Haringey",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Harrow",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Havering",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Hillingdon",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Hounslow",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Islington",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Lambeth",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Lewisham",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Merton",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Newham",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Redbridge",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Richmond upon Thames",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Southwark",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Sutton",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Tower Hamlets",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Waltham Forest",
-        "cities": []
-      },
-      {
-        "name": "London Borough of Wandsworth",
-        "cities": []
-      },
-      {
-        "name": "Magherafelt District Council",
-        "cities": []
-      },
-      {
-        "name": "Manchester",
-        "cities": []
-      },
-      {
-        "name": "Medway",
-        "cities": []
-      },
-      {
-        "name": "Merthyr Tydfil County Borough",
-        "cities": []
-      },
-      {
-        "name": "Metropolitan Borough of Wigan",
-        "cities": []
-      },
-      {
-        "name": "Mid and East Antrim",
-        "cities": []
-      },
-      {
-        "name": "Mid Ulster",
-        "cities": []
-      },
-      {
-        "name": "Middlesbrough",
-        "cities": []
-      },
-      {
-        "name": "Midlothian",
-        "cities": []
-      },
-      {
-        "name": "Milton Keynes",
-        "cities": []
-      },
-      {
-        "name": "Monmouthshire",
-        "cities": []
-      },
-      {
-        "name": "Moray",
-        "cities": []
-      },
-      {
-        "name": "Moyle District Council",
-        "cities": []
-      },
-      {
-        "name": "Neath Port Talbot County Borough",
-        "cities": []
-      },
-      {
-        "name": "Newcastle upon Tyne",
-        "cities": []
-      },
-      {
-        "name": "Newport",
-        "cities": []
-      },
-      {
-        "name": "Newry and Mourne District Council",
-        "cities": []
-      },
-      {
-        "name": "Newry, Mourne and Down",
-        "cities": []
-      },
-      {
-        "name": "Newtownabbey Borough Council",
-        "cities": []
-      },
-      {
-        "name": "Norfolk",
-        "cities": []
-      },
-      {
-        "name": "North Ayrshire",
-        "cities": []
-      },
-      {
-        "name": "North Down Borough Council",
-        "cities": []
-      },
-      {
-        "name": "North East Lincolnshire",
-        "cities": []
-      },
-      {
-        "name": "North Lanarkshire",
-        "cities": []
-      },
-      {
-        "name": "North Lincolnshire",
-        "cities": []
-      },
-      {
-        "name": "North Somerset",
-        "cities": []
-      },
-      {
-        "name": "North Tyneside",
-        "cities": []
-      },
-      {
-        "name": "North Yorkshire",
-        "cities": []
-      },
-      {
-        "name": "Northamptonshire",
-        "cities": []
       },
       {
         "name": "Northern Ireland",
@@ -76311,102 +69974,6 @@
         ]
       },
       {
-        "name": "Northumberland",
-        "cities": []
-      },
-      {
-        "name": "Nottinghamshire",
-        "cities": []
-      },
-      {
-        "name": "Oldham",
-        "cities": []
-      },
-      {
-        "name": "Omagh District Council",
-        "cities": []
-      },
-      {
-        "name": "Orkney Islands",
-        "cities": []
-      },
-      {
-        "name": "Outer Hebrides",
-        "cities": []
-      },
-      {
-        "name": "Oxfordshire",
-        "cities": []
-      },
-      {
-        "name": "Pembrokeshire",
-        "cities": []
-      },
-      {
-        "name": "Perth and Kinross",
-        "cities": []
-      },
-      {
-        "name": "Poole",
-        "cities": []
-      },
-      {
-        "name": "Powys",
-        "cities": []
-      },
-      {
-        "name": "Reading",
-        "cities": []
-      },
-      {
-        "name": "Redcar and Cleveland",
-        "cities": []
-      },
-      {
-        "name": "Renfrewshire",
-        "cities": []
-      },
-      {
-        "name": "Rhondda Cynon Taf",
-        "cities": []
-      },
-      {
-        "name": "Rochdale",
-        "cities": []
-      },
-      {
-        "name": "Rotherham",
-        "cities": []
-      },
-      {
-        "name": "Royal Borough of Greenwich",
-        "cities": []
-      },
-      {
-        "name": "Royal Borough of Kensington and Chelsea",
-        "cities": []
-      },
-      {
-        "name": "Royal Borough of Kingston upon Thames",
-        "cities": []
-      },
-      {
-        "name": "Rutland",
-        "cities": []
-      },
-      {
-        "name": "Saint Helena",
-        "cities": []
-      },
-      {
-        "name": "Salford",
-        "cities": []
-      },
-      {
-        "name": "Sandwell",
-        "cities": []
-      },
-      {
         "name": "Scotland",
         "cities": [
           "Aberchirder",
@@ -76462,130 +70029,6 @@
         ]
       },
       {
-        "name": "Scottish Borders",
-        "cities": []
-      },
-      {
-        "name": "Sefton",
-        "cities": []
-      },
-      {
-        "name": "Sheffield",
-        "cities": []
-      },
-      {
-        "name": "Shetland Islands",
-        "cities": []
-      },
-      {
-        "name": "Shropshire",
-        "cities": []
-      },
-      {
-        "name": "Slough",
-        "cities": []
-      },
-      {
-        "name": "Solihull",
-        "cities": []
-      },
-      {
-        "name": "Somerset",
-        "cities": []
-      },
-      {
-        "name": "South Ayrshire",
-        "cities": []
-      },
-      {
-        "name": "South Gloucestershire",
-        "cities": []
-      },
-      {
-        "name": "South Lanarkshire",
-        "cities": []
-      },
-      {
-        "name": "South Tyneside",
-        "cities": []
-      },
-      {
-        "name": "Southend-on-Sea",
-        "cities": []
-      },
-      {
-        "name": "St Helens",
-        "cities": []
-      },
-      {
-        "name": "Staffordshire",
-        "cities": []
-      },
-      {
-        "name": "Stirling",
-        "cities": []
-      },
-      {
-        "name": "Stockport",
-        "cities": []
-      },
-      {
-        "name": "Stockton-on-Tees",
-        "cities": []
-      },
-      {
-        "name": "Strabane District Council",
-        "cities": []
-      },
-      {
-        "name": "Suffolk",
-        "cities": []
-      },
-      {
-        "name": "Surrey",
-        "cities": []
-      },
-      {
-        "name": "Swindon",
-        "cities": []
-      },
-      {
-        "name": "Tameside",
-        "cities": []
-      },
-      {
-        "name": "Telford and Wrekin",
-        "cities": []
-      },
-      {
-        "name": "Thurrock",
-        "cities": []
-      },
-      {
-        "name": "Torbay",
-        "cities": []
-      },
-      {
-        "name": "Torfaen",
-        "cities": []
-      },
-      {
-        "name": "Trafford",
-        "cities": []
-      },
-      {
-        "name": "United Kingdom",
-        "cities": []
-      },
-      {
-        "name": "Vale of Glamorgan",
-        "cities": []
-      },
-      {
-        "name": "Wakefield",
-        "cities": []
-      },
-      {
         "name": "Wales",
         "cities": [
           "Aberaeron",
@@ -76639,58 +70082,6 @@
           "Brynmawr",
           "Brynna"
         ]
-      },
-      {
-        "name": "Walsall",
-        "cities": []
-      },
-      {
-        "name": "Warrington",
-        "cities": []
-      },
-      {
-        "name": "Warwickshire",
-        "cities": []
-      },
-      {
-        "name": "West Berkshire",
-        "cities": []
-      },
-      {
-        "name": "West Dunbartonshire",
-        "cities": []
-      },
-      {
-        "name": "West Lothian",
-        "cities": []
-      },
-      {
-        "name": "West Sussex",
-        "cities": []
-      },
-      {
-        "name": "Wiltshire",
-        "cities": []
-      },
-      {
-        "name": "Windsor and Maidenhead",
-        "cities": []
-      },
-      {
-        "name": "Wirral",
-        "cities": []
-      },
-      {
-        "name": "Wokingham",
-        "cities": []
-      },
-      {
-        "name": "Worcestershire",
-        "cities": []
-      },
-      {
-        "name": "Wrexham County Borough",
-        "cities": []
       }
     ]
   },
@@ -76819,10 +70210,6 @@
         ]
       },
       {
-        "name": "American Samoa",
-        "cities": []
-      },
-      {
         "name": "Arizona",
         "cities": [
           "Ahwatukee Foothills",
@@ -76931,10 +70318,6 @@
           "Clarksville",
           "Clay County"
         ]
-      },
-      {
-        "name": "Baker Island",
-        "cities": []
       },
       {
         "name": "California",
@@ -77277,10 +70660,6 @@
         ]
       },
       {
-        "name": "Guam",
-        "cities": []
-      },
-      {
         "name": "Hawaii",
         "cities": [
           "‘Āhuimanu",
@@ -77334,10 +70713,6 @@
           "Kalawao County",
           "Kaneohe"
         ]
-      },
-      {
-        "name": "Howland Island",
-        "cities": []
       },
       {
         "name": "Idaho",
@@ -77560,14 +70935,6 @@
         ]
       },
       {
-        "name": "Jarvis Island",
-        "cities": []
-      },
-      {
-        "name": "Johnston Atoll",
-        "cities": []
-      },
-      {
         "name": "Kansas",
         "cities": [
           "Abilene",
@@ -77676,10 +71043,6 @@
           "Cadiz",
           "Caldwell County"
         ]
-      },
-      {
-        "name": "Kingman Reef",
-        "cities": []
       },
       {
         "name": "Louisiana",
@@ -77957,10 +71320,6 @@
         ]
       },
       {
-        "name": "Midway Atoll",
-        "cities": []
-      },
-      {
         "name": "Minnesota",
         "cities": [
           "Ada",
@@ -78179,10 +71538,6 @@
           "Flathead County",
           "Forsyth"
         ]
-      },
-      {
-        "name": "Navassa Island",
-        "cities": []
       },
       {
         "name": "Nebraska",
@@ -78625,10 +71980,6 @@
         ]
       },
       {
-        "name": "Northern Mariana Islands",
-        "cities": []
-      },
-      {
         "name": "Ohio",
         "cities": [
           "Ada",
@@ -78792,10 +72143,6 @@
           "Cottage Grove",
           "Creswell"
         ]
-      },
-      {
-        "name": "Palmyra Atoll",
-        "cities": []
       },
       {
         "name": "Pennsylvania",
@@ -79183,14 +72530,6 @@
         ]
       },
       {
-        "name": "United States Minor Outlying Islands",
-        "cities": []
-      },
-      {
-        "name": "United States Virgin Islands",
-        "cities": []
-      },
-      {
         "name": "Utah",
         "cities": [
           "Alpine",
@@ -79354,10 +72693,6 @@
           "Boydton",
           "Bracey"
         ]
-      },
-      {
-        "name": "Wake Island",
-        "cities": []
       },
       {
         "name": "Washington",
@@ -79578,58 +72913,6 @@
           "North Rock Springs",
           "Park County"
         ]
-      }
-    ]
-  },
-  {
-    "name": "United States Minor Outlying Islands",
-    "iso3": "UMI",
-    "iso2": "UM",
-    "phone_code": "1",
-    "capital": "",
-    "currency": "USD",
-    "currency_symbol": "$",
-    "native": "United States Minor Outlying Islands",
-    "region": "Americas",
-    "nationalities": [
-      "American"
-    ],
-    "states": [
-      {
-        "name": "Baker Island",
-        "cities": []
-      },
-      {
-        "name": "Howland Island",
-        "cities": []
-      },
-      {
-        "name": "Jarvis Island",
-        "cities": []
-      },
-      {
-        "name": "Johnston Atoll",
-        "cities": []
-      },
-      {
-        "name": "Kingman Reef",
-        "cities": []
-      },
-      {
-        "name": "Midway Islands",
-        "cities": []
-      },
-      {
-        "name": "Navassa Island",
-        "cities": []
-      },
-      {
-        "name": "Palmyra Atoll",
-        "cities": []
-      },
-      {
-        "name": "Wake Island",
-        "cities": []
       }
     ]
   },
@@ -80142,10 +73425,6 @@
         ]
       },
       {
-        "name": "Penama",
-        "cities": []
-      },
-      {
         "name": "Sanma",
         "cities": [
           "Luganville",
@@ -80171,21 +73450,6 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Vatican City State (Holy See)",
-    "iso3": "VAT",
-    "iso2": "VA",
-    "phone_code": "379",
-    "capital": "Vatican City",
-    "currency": "EUR",
-    "currency_symbol": "€",
-    "native": "Vaticano",
-    "region": "Europe",
-    "nationalities": [
-      "Vatican"
-    ],
-    "states": []
   },
   {
     "name": "Venezuela",
@@ -80312,10 +73576,6 @@
           "Punto Fijo",
           "Tucacas"
         ]
-      },
-      {
-        "name": "Federal Dependencies of Venezuela",
-        "cities": []
       },
       {
         "name": "Guárico",
@@ -81262,21 +74522,6 @@
     ]
   },
   {
-    "name": "Virgin Islands (British)",
-    "iso3": "VGB",
-    "iso2": "VG",
-    "phone_code": "+1-284",
-    "capital": "Road Town",
-    "currency": "USD",
-    "currency_symbol": "$",
-    "native": "British Virgin Islands",
-    "region": "Americas",
-    "nationalities": [
-      "British Virgin Island"
-    ],
-    "states": []
-  },
-  {
     "name": "Virgin Islands (US)",
     "iso3": "VIR",
     "iso2": "VI",
@@ -81326,36 +74571,6 @@
         ]
       }
     ]
-  },
-  {
-    "name": "Wallis and Futuna Islands",
-    "iso3": "WLF",
-    "iso2": "WF",
-    "phone_code": "681",
-    "capital": "Mata Utu",
-    "currency": "XPF",
-    "currency_symbol": "₣",
-    "native": "Wallis et Futuna",
-    "region": "Oceania",
-    "nationalities": [
-      "Wallis and Futuna, Wallisian, Futunan"
-    ],
-    "states": []
-  },
-  {
-    "name": "Western Sahara",
-    "iso3": "ESH",
-    "iso2": "EH",
-    "phone_code": "212",
-    "capital": "El-Aaiun",
-    "currency": "MAD",
-    "currency_symbol": "MAD",
-    "native": "الصحراء الغربية",
-    "region": "Africa",
-    "nationalities": [
-      "Sahrawi, Sahrawian, Sahraouian"
-    ],
-    "states": []
   },
   {
     "name": "Yemen",
@@ -81530,10 +74745,6 @@
           "Milhan",
           "Shibām Kawkabān"
         ]
-      },
-      {
-        "name": "Amanat Al Asimah",
-        "cities": []
       },
       {
         "name": "Dhamar",

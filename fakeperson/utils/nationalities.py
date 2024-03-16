@@ -285,13 +285,13 @@ def get_fake_state(nationality: str = None, country: str = None, city: str = Non
         return choice(states)
 
     if nationality:
-        raise ValueError(f'"{nationality}" is not found')
+        raise ValueError(f'Theres no states found for the "{nationality}" nationality')
 
     if country:
-        raise ValueError(f'"{country}" is not found')
+        raise ValueError(f'"{country}" does not have any states, or the country not found')
 
     if city:
-        raise ValueError(f'"{city}" is not found')
+        raise ValueError(f'"{city}" does not have any states, or the city not found')
 
 def get_fake_city(nationality: str = None, country: str = None, state: str = None):
     # IN: NAT
@@ -300,7 +300,7 @@ def get_fake_city(nationality: str = None, country: str = None, state: str = Non
     # OUT: RANDOM CITY FROM DATA
 
     # Get random city from nationality, or from country, or from state.
-    # If not nationality, or country, or state, return random state
+    # If not nationality, or country, or state, return random city
 
     cities = []
     if nationality:
@@ -328,9 +328,12 @@ def get_fake_city(nationality: str = None, country: str = None, state: str = Non
                         nationality = nats[0].strip()
 
             if nat.lower() == nationality.lower():
+                if not item['states']:
+                    raise ValueError(f'It looks like "{nationality}" does not have any valid states. Please use different nationality')
                 for states in item['states']:
                     if states['cities']:
-                        cities.extend(city for city in states['cities'])
+                        for city in states['cities']:
+                            cities.append(city)
 
     if country:
         for item in data:
@@ -359,10 +362,10 @@ def get_fake_city(nationality: str = None, country: str = None, state: str = Non
         return choice(cities)
 
     if nationality:
-        raise ValueError(f'"{nationality}" is not found')
+        raise ValueError(f'Theres no cities found for the "{nationality}" nationality')
 
     if country:
-        raise ValueError(f'"{country}" is not found')
+        raise ValueError(f'"{country}" does not have any cities, or the country not found')
 
     if state:
-        raise ValueError(f'"{state}" is not found')
+        raise ValueError(f'"{state}" does not have any cities, or the state not found')

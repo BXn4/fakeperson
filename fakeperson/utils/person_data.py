@@ -34,7 +34,38 @@ def get_gender(gender: str or int = None, country: str = None, native: bool = Fa
                 return translations[translated_gender]
 
 
-def get_height(age: int, gender: str or int, native: bool = False):
-    person_gender = gender(gender)
-    random_height = randint(100, 140)
+def get_height(age: int, gender: str or int, nationality: str, native: bool = False):
+    if isinstance(gender, int):  # Check gender
+        match gender:
+            case 1:  # Male
+                person_gender = "Male"
+            case 2:  # Female
+                person_gender = "Female"
+            case _:  # Default
+                person_gender = choice(["Male", "Female"])
+    elif isinstance(gender, str):
+        if gender.lower() in ["male", "female"]:
+            person_gender = gender.capitalize()
+        else:  # When the input is not male or female
+            person_gender = choice(["Male", "Female"])
+    match person_gender:
+        case "Female":
+            if age >= 18:
+                height = randint(150, 175)  # CM
+            elif age <= 12:
+                height = randint(90, 125)  # CM
+            else:
+                height = randint(120, 160)  # CM
+            if nationality == "American":
+                height = round((height / 30.48), 2)  # TO FEET
+        case "Male":
+            if age >= 18:
+                height = randint(160, 210)  # CM
+            elif age <= 12:
+                height = randint(100, 130)  # CM
+            else:
+                height = randint(150, 175)  # CM
+            if nationality == "American":
+                height = round((height / 30.48), 2)  # TO FEET
 
+    return height

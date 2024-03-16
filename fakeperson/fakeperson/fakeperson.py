@@ -9,13 +9,13 @@ from utils import nationalities
 class Person:
     def __init__(self, gender: Union[int, str], nationality: str, age: int, country: str, city: str,
                  native: bool) -> None:
-        self.gender = None  # MALE = 1, FEMALE = 2
-        self.nationality = None
-        self.age = None
-        self.country = None
-        self.city = None
+        self.gender = None  # MALE = 1, FEMALE = 2  # DONE
+        self.nationality = None  # DONE
+        self.age = None  # DONE
+        self.country = None  # DONE
+        self.city = None  # DONE
 
-        self.height = None
+        self.height = None  # DONE
         self.weight = None
         self.eyesColor = None
         self.hairColor = None
@@ -71,44 +71,12 @@ class Person:
 
         if not city:
             pass
-            # city = nationalities.get_random_city(nationality, country)
+            city = nationalities.get_fake_city(nationality, self.country)
         elif city:
             city = nationalities.check_city(city)
         self.city = city
 
-        # do more
-
-        match self.gender:
-            case "Female":
-                if self.age >= 18:
-                    self.height = randint(150, 175)  # CM
-                else:
-                    self.height = randint(140, 160)  # CM
-                if self.nationality == "American":
-                    self.height = round((self.height / 30.48), 2)  # TO FEET
-            case "Male":
-                if self.age >= 18:
-                    self.height = randint(160, 210)  # CM
-                else:
-                    self.height = randint(150, 170)  # CM
-                if self.nationality == "American":
-                    self.height = round((self.height / 30.48), 2)  # TO FEET
-
-        match self.gender:
-            case "Female":
-                if self.age >= 18:
-                    self.weight = randint(55, 80)  # KG
-                else:
-                    self.weight = randint(40, 55)  # KG
-                if self.nationality == "American":
-                    self.weight = floor(self.weight / 0.45359237)  # TO LB
-            case "Male":
-                if self.age >= 18:
-                    self.weight = randint(60, 110)  # KG
-                else:
-                    self.weight = randint(50, 70)  # KG
-                if self.nationality == "American":
-                    self.weight = floor(self.weight / 0.45359237)  # TO LB
+        self.height = person_data.get_height(self.age, self.gender, self.nationality)
 
     def to_json(self):  # Export not done
         pass
@@ -154,8 +122,8 @@ class Parents:
 
 class HomeAddress:
     def __init__(self) -> None:
+        self.state = None
         self.zip = None
-        self.city = None
         self.street = None
         self.number = None
 

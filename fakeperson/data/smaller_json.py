@@ -4,6 +4,9 @@
 
 import json
 
+# Regex for get every state what does not have any cities:
+# \{\s+"name":\s+".+?",\s+"cities":\s+\[\]\s+\},
+
 def extract_data(data):
     extracted_data = []
 
